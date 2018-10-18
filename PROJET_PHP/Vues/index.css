@@ -13,7 +13,7 @@
  }
 #menuprincipal li a {
  display:block;
- width:100px;
+ width:200px;
  color:white;
  text-decoration:none;
  padding:5px;
@@ -24,4 +24,15 @@
 
  #menuprincipal ul li ul {
   display:none;
+  }
+
+#menuprincipal ul li:hover ul {
+ display:block;
+ }
+#menuprincipal li:hover ul li {
+ float:none;
+ }
+
+ #menuprincipal li ul {
+  position:absolute;
   }
