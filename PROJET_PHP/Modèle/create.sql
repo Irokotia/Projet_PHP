@@ -6,12 +6,11 @@ create Table Processeur (
   Ghz STRING,
   prix STRING
 );
-create Table RAM (
+create Table SOURIS (
   id INTEGER,
   marque STRING,
   modele STRING,
   reference STRING,
-  Ghz STRING,
   prix STRING
 );
 create Table CarteMère (
@@ -19,7 +18,6 @@ create Table CarteMère (
   marque STRING,
   modele STRING,
   reference STRING,
-  Ghz STRING,
   prix STRING
 );
 create Table DisqueDure (
@@ -27,6 +25,5 @@ create Table DisqueDure (
   marque STRING,
   modele STRING,
   reference STRING,
-  Ghz STRING,
   prix STRING
 );
