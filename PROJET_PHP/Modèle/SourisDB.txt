@@ -1,0 +1,20 @@
+1|Corsair|Dark|Core RGB|99€95
+2|Corsair|Dark|Core RGB SE|109€95
+3|Corsair|Gaming|Glaive RGB|79€95
+4|Corsair|Gaming|M65 PRO RGB|69€95
+5|Corsair|Gaming|Sabre RGB|49€96
+6|Corsair|Gaming|Scimitar Pro RGB|89€95
+7|Acer|Predator|Cestus 300|69€35
+8|Acer|Predator|Cestus 500|93€15
+9|Acer|Predator|Gaming|Mouse|79€95
+10|ASUS|Cerberus|Fortus|49€90
+11|ASUS|Cerberus|Mouse|39€90
+12|ASUS|ROG Republic of Gamers|Gladius|69€95
+13|ASUS|ROG Republic of Gamers|Gladius II|89€95
+14|ASUS|ROG Republic of Gamers|GX850|89€95
+15|ASUS|ROG Republic of Gamers|GX860|79€95
+16|ASUS|ROG Republic of Gamers|Pugio|79€95
+17|ASUS|ROG Republic of Gamers|Sica|49€90
+17|ASUS|ROG Republic of Gamers|Spatha|159€95
+19|ASUS|ROG Republic of Gamers|Strix Evolve|49€90
+20|ASUS|ROG Republic of Gamers|Strix Impact|49€99
