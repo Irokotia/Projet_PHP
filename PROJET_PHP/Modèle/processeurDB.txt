@@ -1,0 +1,18 @@
+1|Intel|Celeron|G4900|3.1
+2|Intel|Celeron|G4920|3.2
+3|Intel|Core|I3-2330M|2.2
+4|Intel|Core|I3-4110M|2.5
+5|Intel|Core|i3-7100|3.9
+6|Intel|Core|i3-8100|3.9
+7|Intel|Core|i3-8350K|4.0
+8|Intel|Core|I5-4210M|2.6
+9|Intel|Core|i5-7400|3.0
+10|Intel|Core|i5-8500|3.0
+11|Intel|Core|i5-8600|3.1
+12|Intel|Core|i5-8600K|3.6
+13|Intel|Core|i7-5820K|3.3
+14|Intel|Core|i7-6700K|4.0
+15|Intel|Core|i7-8700K|3.7
+
+
+ |Intel|Core
