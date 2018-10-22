@@ -6,7 +6,7 @@ require_once('CarteMèreDAO.class.php');
 $config = parse_ini_file('../config/config.ini');
 
 //Création de l'instance DAO
-$CarteMère = new CarteMèreDAO();
+$CarteMère = new CarteMèreDAO($config['database_path']);
 
 $cm = $CarteMère->get(1);
 var_dump($cm);

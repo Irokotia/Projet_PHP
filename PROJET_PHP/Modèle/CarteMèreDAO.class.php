@@ -3,8 +3,8 @@ class CarteMèreDAO
 {
 	private $db;
 
-	function __construct() {
-		$database = 'sqlite:data/cartemère.db';
+	function __construct($path) {
+		$database = 'sqlite:'.$path.'/cartemère.db';
 		try {
 			$this->db = new PDO($database);
 		} catch (PDOException $e) {
