@@ -4,5 +4,6 @@ create Table CarteMère (
   marque STRING,
   modele STRING,
   ref STRING,
+  format STRING,
   prix STRING
 );
