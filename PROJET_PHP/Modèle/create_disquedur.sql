@@ -1,4 +1,4 @@
-create Table DisqueDure (
+create Table DisqueDur (
   id INTEGER,
   marque STRING,
   modele STRING,
