@@ -15,7 +15,7 @@ class DisqueDurDAO
 	function get(int $id):DisqueDur {
 		$req="SELECT * FROM disquedur WHERE id='$id'";
 		$sth=($this->db)->query($req);
-		$result = $sth->fetchAll(PDO::FETCH_CLASS,'Music');
+		$result = $sth->fetchAll(PDO::FETCH_CLASS,'DisqueDur');
 		return $result[0];
 	}
 }

@@ -15,7 +15,7 @@ class CarteMèreDAO
 	function get(int $id):CarteMère {
 		$req="SELECT * FROM cartemère WHERE id='$id'";
 		$sth=($this->db)->query($req);
-		$result = $sth->fetchAll(PDO::FETCH_CLASS,'Music');
+		$result = $sth->fetchAll(PDO::FETCH_CLASS,'CarteMère');
 		return $result[0];
 	}
 }

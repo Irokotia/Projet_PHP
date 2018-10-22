@@ -15,7 +15,7 @@ class SourisDAO
 	function get(int $id):Souris {
 		$req="SELECT * FROM souris WHERE id='$id'";
 		$sth=($this->db)->query($req);
-		$result = $sth->fetchAll(PDO::FETCH_CLASS,'Music');
+		$result = $sth->fetchAll(PDO::FETCH_CLASS,'Souris');
 		return $result[0];
 	}
 }
