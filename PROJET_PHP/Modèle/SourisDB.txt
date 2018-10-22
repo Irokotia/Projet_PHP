@@ -5,7 +5,7 @@
 5|Corsair|Gaming|Sabre RGB|49€96
 6|Corsair|Gaming|Scimitar Pro RGB|89€95
 7|Acer|Predator|Cestus 300|69€35
-8|Acer|Predator|Cestus 500|93€15
+8|Acer|Predator|Cestus 500|93€15 
 9|Acer|Predator|Gaming|Mouse|79€95
 10|ASUS|Cerberus|Fortus|49€90
 11|ASUS|Cerberus|Mouse|39€90
