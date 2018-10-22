@@ -1,5 +1,5 @@
 <?php
-class DisqueDure
+class DisqueDur
 {
 	public $id;
 	public $marque;
