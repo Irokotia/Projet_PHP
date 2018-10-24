@@ -11,7 +11,7 @@
 11|ASUS|Cerberus|Mouse|39€90
 12|ASUS|ROG Republic of Gamers|Gladius|69€95
 13|ASUS|ROG Republic of Gamers|Gladius II|89€95
-14|ASUS|ROG Republic of Gamers|GX850|89€95
+14|ASUS|ROG Republic of Gamers|GX850|44€95
 15|ASUS|ROG Republic of Gamers|GX860|79€95
 16|ASUS|ROG Republic of Gamers|Pugio|79€95
 17|ASUS|ROG Republic of Gamers|Sica|49€90
