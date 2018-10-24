@@ -7,5 +7,6 @@ class Processeur
 	public $ref;
 	public $Ghz;
 	public $prix;
+	public $img;
 }
 ?>
