@@ -6,5 +6,6 @@ class CarteMère
 	public $modele;
 	public $ref;
 	public $prix;
+	public $img;
 }
 ?>

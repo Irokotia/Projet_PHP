@@ -3,5 +3,6 @@ create Table Souris (
   marque STRING,
   modele STRING,
   ref STRING,
-  prix STRING
+  prix STRING,
+  img STRING
 );
