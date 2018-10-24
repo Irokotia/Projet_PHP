@@ -5,5 +5,6 @@ create Table DisqueDur (
   modele STRING,
   taille STRING,
   type STRING,
-  prix STRING
+  prix STRING,
+  img STRING
 );
