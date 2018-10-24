@@ -7,5 +7,6 @@ class DisqueDur
 	public $taille;
 	public $type;
 	public $prix;
+	public $img;
 }
 ?>
