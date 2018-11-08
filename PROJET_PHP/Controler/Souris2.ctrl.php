@@ -1,6 +1,6 @@
 <?php
-include('../Modèle/DisqueDur.class.php');
-include('../Modèle/DisqueDurDAO.class.php');
+include('../Modèle/Souris.class.php');
+include('../Modèle/SourisDAO.class.php');
 // Récupération des valeurs de la query string
 $id = $_GET["id"];
 
@@ -8,10 +8,10 @@ $id = $_GET["id"];
 $config = parse_ini_file('../config/config.ini');
 
 // Creation de l'instace DAO
-$DisqueDur = new DisqueDurDAO($config['database_path']);
+$Souris = new SourisDAO($config['database_path']);
 
-// Récupération de l'objet DisqueDur correspondant à l'id
-$d = $DisqueDur->get($id);
+// Récupération de l'objet souris correspondant à l'id
+$s = $Souris->get($id);
 
 include('../view/play.view.php');
 ?>
