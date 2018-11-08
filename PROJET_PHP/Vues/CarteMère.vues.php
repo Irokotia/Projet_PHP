@@ -61,9 +61,13 @@
         <div class="container">
 
           <div id="heading-block">
+
               <h2>Liste des produits</h2>
           </div>
-
+          <a href ="CarteMère.ctrl.php?firstId=<?= $idprec ?>"><img  src="../Vues/Images/ImagesSwitch/Actions-arrow-left-icon.png" alt="Bouh"></a>
+          <?= $page ?>
+          <a href ="CarteMère.ctrl.php?firstId=1"><img  src="../Vues/Images/ImagesSwitch/Actions-arrow-top-icon.png" alt="sdqsdqsdq"></a>
+          <a href ="CarteMère.ctrl.php?firstId=<?= $idsuv  ?>"><img   src="../Vues/Images/ImagesSwitch/Actions-arrow-right-icon.png" alt="qdfdfsdf"></a>
           <?php foreach($list as $id => $url){   ?>
             <div class="box">
             <a href="CarteMère2.ctrl.php?id=<?php echo $id ?>">
@@ -79,16 +83,10 @@
            <?php } ?>
 
         </div>
-        <div>
-          <div><a href ="CarteMère.ctrl.php?firstId=<?= $idprec ?>"><img id ="fleche" src="/Images/ImagesSwitch/Actions-arrow-left-icon.png" alt="Bouh"></a>
-          <?= $page ?>
-          <a href ="CarteMère.ctrl.php?firstId=1"><img id ="fleche" src="/Images/ImagesSwitch/Actions-arrow-top-icon.png" alt="sdqsdqsdq"></a>
-          <a href ="CarteMère.ctrl.php?firstId=<?= $idsuv  ?>"><img  id ="fleche" src="/Images/ImagesSwitch/Actions-arrow-right-icon.png" alt=""></a>
-           </div>
-        </div>
         <div id="footer">
             <div class="container">
                 <div class="footer_sub">
+
                     <h2>Notre histoire</h2>
                     <p>Compinfo est un site d'informations concernant du matériel informatique, développé par Mehdi Zaaboub, Alexandre
                     Martin et Rowin Boissin. Le site a été fondé en 2018 dans le cadre d'un projet PHP.</a></span> </p>

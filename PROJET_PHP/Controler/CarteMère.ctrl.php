@@ -17,11 +17,11 @@ if (isset($_GET["nbCarteMère"]) == false ) {
 }
 $pageAvant = $page-1;
 $pageApres = $page+1;
-$idsuv = $page+10;
+$idsuv = $page+9;
 if($page <= 1){
 	$idprec = 1;
 }else{
-	$idprec = $page-10;
+	$idprec = $page-9;
 }
 $config = parse_ini_file('../config/config.ini');
 
