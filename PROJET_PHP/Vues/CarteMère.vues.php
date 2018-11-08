@@ -60,13 +60,20 @@
         <!----=====category boxes===----->
         <div class="container">
 
+          <div id="heading-block">
+              <h2>Nom du produit</h2>
+          </div>
+
+            <div class="box">
+
             <?php foreach($list as $id => $url){   ?>
             <a href="CarteMère2.ctrl.php?id=<?php echo $id ?>">
             <img src="<?= $url ?>" />
+              </div>
             </a>
            <?php } ?>
 
-          </div>
+        </div>
 
         <div id="footer">
             <div class="container">
