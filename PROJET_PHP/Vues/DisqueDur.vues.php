@@ -10,69 +10,70 @@
 </head>
 
 <body>
+    <div id="wrapper">
+        <div id="header">
+            <div id="subheader">
+                <div class="container">
+                    <p>Choisir votre langue : <img src="imagesiteweb/franceflag.png"> Français</p>
+                    <a href="#"></a><a href="#"></a><a href="#"></a><a href="#">Besoin d'aide ?</a>
+                </div>
+            </div>
+            <!--==main header==-->
+            <div id="main-header">
+                <!--logo-->
+                <div id="logo">
+                    <img src="imagesiteweb/logoprojet.png">
+                </div>
+                <!--==search area==-->
+                <div id="search">
+                    <form action="">
+                        <input class="search-area" type="text" name="text" placeholder="Rechercher un produit">
+                        <input class="search-btn" type="submit" name="submit" value="Rechercher">
 
-<div id="wrapper">
-    <div id="header">
-        <div id="subheader">
-            <div class="container">
-                <p>Choisir votre langue : <img src="images/franceflag.png"> Français</p>
-                <a href="#"></a><a href="#"></a><a href="#"></a><a href="#">Besoin d'aide ?</a>
+                    </form>
+                </div>
+                <!--==user-menu==-->
             </div>
         </div>
-        <!--==main header==-->
-        <div id="main-header">
-            <!--logo-->
-            <div id="logo">
-                <img src="images/logoprojet.png">
-            </div>
-            <!--==search area==-->
-            <div id="search">
-                <form action="">
-                    <input class="search-area" type="text" name="text" placeholder="Rechercher un produit">
-                    <input class="search-btn" type="submit" name="submit" value="Rechercher">
 
-                </form>
-            </div>
-
-            <!--==user-menu==-->
-            <div id="user-menu">
-                <li><a href="#">Panier</a></li>
-                <li><a href="#">Login</a></li>
-            </div>
+        <!----=====navigation bar==--->
+        <div id="navigation">
+           <a href="#" class="menu-togglr"><i class="fa fa-bars"></i></a>
+            <ul>
+                <li><a href="#">Accueil</a></li>
+                <li><a href="#">Dernières nouveautés</a></li>
+                <li><a href="#">Bons Plans</a></li>
+                <li><a href="#">Composants</a></li>
+                <li><a href="#">PC de bureau</a></li>
+                <li><a href="#">PC gamers</a></li>
+                <li><a href="#">Contactez nous</a></li>
+            </ul>
         </div>
-    </div>
-    <!----=====navigation bar==--->
-    <div id="navigation">
-       <a href="#" class="menu-togglr"><i class="fa fa-bars"></i></a>
-        <ul>
-            <li><a href="#">Accueil</a></li>
-            <li><a href="#">Dernières nouveautés</a></li>
-            <li><a href="#">Bons Plans</a></li>
-            <li><a href="#">Composants</a></li>
-            <li><a href="#">PC de bureau</a></li>
-            <li><a href="#">PC gamers</a></li>
-            <li><a href="#">Contactez nous</a></li>
-        </ul>
-    </div>
+        <!--============home-slider==-->
+        <div id="slider">
+            <ul class="bxslider">
+                <li><img src="imagesiteweb/Slide1.png"></li>
+                <li><img src="imagesiteweb/Slide2.png"></li>
+                <li><img src="imagesiteweb/Slide3.png"></li>
+            </ul>
+        </div>
+        <!----=====category boxes===----->
+        <div class="container">
 
-    <!----=====category boxes===----->
-    <div class="container">
+            <?php foreach($list as $id => $url){   ?>
+            <a href="DisqueDur2.ctrl.php?id=<?php echo $id ?>">
+            <img src="<?= $url ?>" />
+            </a>
+           <?php } ?>
 
-      <?php foreach($list as $id => $url){   ?>
-      <a href="DisqueDur2.ctrl.php?id=<?php echo $id ?>">
-      <img src="<?= $url ?>" />
-      </a>
-     <?php } ?>
-
-    </div>
+          </div>
 
         <div id="footer">
             <div class="container">
                 <div class="footer_sub">
                     <h2>Notre histoire</h2>
-                    <p>Compinfo est un site de ventes de matériel informatiques, de pc pré-conçus et de nombreux autres composants
-                    d'ordinateur. Compinfo a été fondé en 2004 par Mike Cornwell et s'est imposé comme le 1er site de vente
-                    de matériel informatique sur Internet.</a></span> </p>
+                    <p>Compinfo est un site d'informations concernant du matériel informatique, développé par Mehdi Zaaboub, Alexandre
+                    Martin et Rowin Boissin. Le site a été fondé en 2018 dans le cadre d'un projet PHP.</a></span> </p>
                 </div>
                 <div class="footer_sub_2">
                     <center>
@@ -114,6 +115,8 @@
         </div>
 
     </div>
-
+    <script src="js/jquery.js"></script>
+    <script src="js/jquery.bxslider.min.js"></script>
+    <script src="js/my.js"></script>
 </body>
 </html>
