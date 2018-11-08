@@ -12,22 +12,22 @@ if ($page <= 0) {
 }
 
 if (isset($_GET["nbCarteMère"]) == false ) {
-	$nbMusic = 10;
+	$nbCarteMère = 10;
 } elseif (isset($_GET["nbCarteMère"])) {
-	$nbMusic = $_GET["nbCarteMère"];
+	$nbCarteMère = $_GET["nbCarteMère"];
 }
 $pageAvant = $page-1;
 $pageApres = $page+1;
 
 $config = parse_ini_file('../config/config.ini');
 
-$jukebox = new CarteMèreDAO($config['database_path']);
+$CarteMère = new CarteMèreDAO($config['database_path']);
 
-for($i = 1+($nbMusic*($page - 1)); $i < ($nbMusic+1)+($nbMusic*($page - 1)); $i++){
+for($i = 1+($nbCarteMère*($page - 1)); $i < ($nbCarteMère+1)+($nbCarteMère*($page - 1)); $i++){
 	// Récupération de l'objet Music
-	$m = $jukebox->get($i);
+	$m = $CarteMère->get($i);
 	// Ajout à la liste des images à afficher
-	$list[$i] = '../Vues/Images/ImagesCarteMère/'.$m->cover;
+	$list[$i] = '../Vues/Images/ImagesCarteMère/'.$m->img;
 }
 
 //var_dump($list);
