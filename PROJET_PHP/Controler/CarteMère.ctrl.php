@@ -28,7 +28,7 @@ for($i = 1+($nbCarteMère*($page - 1)); $i < ($nbCarteMère+1)+($nbCarteMère*($
 	$c = $CarteMère->get($i);
 	// Ajout à la liste des images à afficher
 	$list[$i] = '../Vues/Images/ImagesCarteMère/'.$c->img;
-	$list2 = $c->modele;
+	$list2[$i] = $c->modele;
 }
 
 //var_dump($list);
