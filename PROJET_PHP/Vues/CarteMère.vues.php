@@ -82,8 +82,8 @@
         <div>
           <div><a href ="CarteMère.ctrl.php?firstId=<?= $idprec ?>"><img id ="fleche" src="/Images/ImagesSwitch/Actions-arrow-left-icon.png" alt="Bouh"></a>
           <?= $page ?>
-          <a href ="CarteMère.ctrl.php?firstId=1"><img id ="fleche" src="../view/Actions-arrow-top-icon.png" alt="sdqsdqsdq"></a>
-          <a href ="CarteMère.ctrl.php?firstId=<?= $idsuv  ?>"><img  id ="fleche" src="../view/Actions-arrow-right-icon.png" alt=""></a>
+          <a href ="CarteMère.ctrl.php?firstId=1"><img id ="fleche" src="/Images/ImagesSwitch/Actions-arrow-top-icon.png" alt="sdqsdqsdq"></a>
+          <a href ="CarteMère.ctrl.php?firstId=<?= $idsuv  ?>"><img  id ="fleche" src="/Images/ImagesSwitch/Actions-arrow-right-icon.png" alt=""></a>
            </div>
         </div>
         <div id="footer">
