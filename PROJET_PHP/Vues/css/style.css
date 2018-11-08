@@ -1,6 +1,6 @@
 #wrapper{font-family:arial;}
 .container{width:100%;
-	max-width:1280px;
+max-width:1920px;
 margin:0;
 margin-top: 30px;
 margin-left: 15px;
@@ -13,7 +13,7 @@ margin-left: 15px;
 	margin-top:-15px;
 }
 #subheader p{
-	float:left;
+	float:center;
 	margin-top:7px;
 }
 #subheader a{
@@ -35,7 +35,7 @@ margin-left: 15px;
 	width:250px;
 	margin-bottom:4em;
 	margin-left: 1em;
-	float:left;
+	float:center;
 }
 #ist{
 	color:#fff;
@@ -280,7 +280,7 @@ nav a:hover{
 	width: 100%;
 	height:auto;
 	background: #f5f5f5;
-	float: left;
+	float: center;
 	text-align: center;
 }
 .footer_sub{
@@ -290,7 +290,7 @@ nav a:hover{
 }
 .footer_sub_2{
 	width: 20%;
-	float:left;
+	float:center;
 }
 .footer_sub_2 ul li{
 	list-style: none;
@@ -306,14 +306,14 @@ nav a:hover{
 }
 .footer_sub_3{
 	width: 35%;
-	float: left;
+	float: center;
 }
 .subs{
 	width: 350px;
 	border: none;
 	height: 50px;
 	padding: 15px;
-	float: left;
+	float: center;
 	margin-left: 2em;
 }
 .sub_btn{
