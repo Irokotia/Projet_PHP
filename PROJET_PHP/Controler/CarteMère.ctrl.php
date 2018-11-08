@@ -17,7 +17,12 @@ if (isset($_GET["nbCarteMère"]) == false ) {
 }
 $pageAvant = $page-1;
 $pageApres = $page+1;
-
+$idsuv = $page+10;
+if($page <= 1){
+	$idprec = 1;
+}else{
+	$idprec = $page-10;
+}
 $config = parse_ini_file('../config/config.ini');
 
 $CarteMère = new CarteMèreDAO($config['database_path']);
