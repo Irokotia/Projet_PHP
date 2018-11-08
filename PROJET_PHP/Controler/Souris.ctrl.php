@@ -31,5 +31,5 @@ for($i = 1+($nbSouris*($page - 1)); $i < ($nbSouris+1)+($nbSouris*($page - 1)); 
 }
 
 //var_dump($list);
-include('../view/main.view.php');
+include('../Vues/Souris.view.php');
 ?>
