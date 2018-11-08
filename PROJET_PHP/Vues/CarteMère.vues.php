@@ -69,6 +69,7 @@
 
             <a href="CarteMère2.ctrl.php?id=<?php echo $id ?>">
             <img src="<?= $url ?>" />
+              <span><?php echo $list2 ?></span>
               </div>
             </a>
            <?php } ?>
