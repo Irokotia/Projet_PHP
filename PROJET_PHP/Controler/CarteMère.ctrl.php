@@ -10,10 +10,9 @@ if (isset($_GET["firstId"]) == false ) {
 if ($page <= 0) {
 	$page = 1;
 }
-
 if (isset($_GET["nbCarteMère"]) == false ) {
 	$nbCarteMère = 10;
-} elseif (isset($_GET["nbCarteMère"])) {
+} elseif (isset($_GET["nbCarteMère"]) )   {
 	$nbCarteMère = $_GET["nbCarteMère"];
 }
 $pageAvant = $page-1;
