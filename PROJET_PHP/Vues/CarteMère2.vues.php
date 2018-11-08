@@ -5,7 +5,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <link href="../Vues/css/jquery.bxslider.css" rel="stylesheet" type="text/css">
     <link href="../Vues/fa/css/font-awesome.min.css" rel="stylesheet">
-    <link href="../Vues/css/style.css" rel="stylesheet" type="text/css">
+    <link href="../Vues/css/style2.css" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="../Vues/css/media.css">
 </head>
 
@@ -60,7 +60,17 @@
         <!----=====category boxes===----->
         <div class="container">
 
+          <div id="heading-block">
+              <h2><?= $c->modele ?></h2>
+          </div>
+
+            <div class="box">
+
             <img src="../Vues/Images/ImagesCarteMère/<?= $c->img ?>" alt="Image de la Carte Mère">
+
+            <span><?php echo $url->prix ?></span>
+
+            <span><?php echo $url->description ?></span>
 
           </div>
 
