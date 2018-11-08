@@ -89,13 +89,13 @@
                     <center>
                         <h2>Réseaux sociaux</h2>
                         <ul>
-                            <li><a href="#">Facebook</a></li>
-                            <li><a href="#">Google+</a></li>
-                            <li><a href="#">Youtube</a></li>
-                            <li><a href="#">Twitter</a></li>
-                            <li><a href="#">Linkdin</a></li>
-                            <li><a href="#">Blogger</a></li>
-                            <li><a href="#">Digg</a></li>
+                          <li><a href="https://www.facebook.com/">Facebook</a></li>
+                          <li><a href="https://plus.google.com/discover">Google+</a></li>
+                          <li><a href="https://www.youtube.com/?gl=FR&hl=fr">Youtube</a></li>
+                          <li><a href="https://twitter.com/?lang=fr">Twitter</a></li>
+                          <li><a href="https://fr.linkedin.com/">Linkdin</a></li>
+                          <li><a href="https://www.blogger.com/about/?r=1-null_user">Blogger</a></li>
+                          <li><a href="http://digg.com/">Digg</a></li>
                         </ul>
                     </center>
                 </div>
