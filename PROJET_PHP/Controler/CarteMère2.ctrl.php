@@ -11,7 +11,7 @@ $config = parse_ini_file('../config/config.ini');
 $CarteMère = new CarteMèreDAO($config['database_path']);
 
 // Récupération de l'objet musique correspondant à l'id
-$m = $CarteMère->get($id);
+$c = $CarteMère->get($id);
 
 include('../view/play.view.php');
 ?>
