@@ -25,9 +25,6 @@ $CarteMère = new CarteMèreDAO($config['database_path']);
 for($i = 1+($nbCarteMère*($page - 1)); $i < ($nbCarteMère+1)+($nbCarteMère*($page - 1)); $i++){
 	// Récupération de l'objet CarteMère
 	$c = $CarteMère->get($i);
-// Ajout à la liste des images à afficher
-	$list[i] = $c;
-
 	// Ajout à la liste des images à afficher
 	$list[$i] = $c;
 }
