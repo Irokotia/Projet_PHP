@@ -1,20 +1,20 @@
-1|Intel|Celeron|G4900|3.1|49€94|01.jpg
-2|Intel|Celeron|G4920|3.2|59€95|02.jpg
-3|Intel|Core|I3-2330M|2.2|189€95|03.jpg
-4|Intel|Core|I3-4110M|2.5|148€95|04.jpg
-5|Intel|Core|i3-7100|3.9|199€95|05.jpg
-6|Intel|Core|i3-8100|3.9|199€95|06.jpg
-7|Intel|Core|i3-8350K|4.0|239€95|07.jpg
-8|Intel|Core|I5-4210M|2.6|175€96|08.jpg
-9|Intel|Core|i5-7400|3.0|249€95|09.jpg
-10|Intel|Core|i5-8500|3.0|319€95|10.jpg
-11|Intel|Core|i5-8600|3.1|339€95|11.jpg
-12|Intel|Core|i5-8600K|3.6|349€94|12.jpg
-13|Intel|Core|i7-6700|3.4|369€95|13.jpg
-14|Intel|Core|i7-6800K|3.4|519€95|14.jpg
-15|Intel|Core|i7-8700K|3.7|539€95|15.jpg
-16|AMD|A10|9700|3.5|71€95|16.jpg
-17|AMD|A10|9800E|3.1|104€95|17.jpg
-18|AMD|A6|9500E|3|54€25|18.jpg
-19|AMD|Athlon|200GE|3.2|57€95|19.jpg
-20|AMD|Athlon|X2 340|3.2|33€34|20.jpg
+1|Intel|Celeron|G4900|3.1|49€94|01.jpg|Les processeurs Intel Celeron sont conçus pour l'informatique du quotidien. Simples et efficaces, ils s'appuient sur une fréquence native élevée, 2 Cores physiques et 2 Cores logiques, 2 Mo de mémoire cache L3 et un contrôleur graphique Intel UHD Graphics 610.
+2|Intel|Celeron|G4920|3.2|59€95|02.jpg|
+3|Intel|Core|I3-2330M|2.2|189€95|03.jpg|Sandy Bridge est la 2ème génération de processeurs Intel Core. Plus puissants, plus efficaces et plus économes que jamais, les processeurs Intel Core de 2ème génération offrent des performances encore plus sensationnelles et une expérience visuelle toujours aussi bluffante.
+4|Intel|Core|I3-4110M|2.5|148€95|04.jpg|Haswell est la 4ème génération de processeurs Intel Core. Plus puissants, plus efficaces et plus économes que jamais, les processeurs Intel Core de 4ème génération offrent des performances encore plus sensationnelles et une expérience visuelle toujours aussi bluffante.
+5|Intel|Core|i3-7100|3.9|199€95|05.jpg|Idéals pour jouer, travailler ou vous divertir, les processeurs Intel Kaby Lake délivrent encore plus de puissance que les processeurs Intel de la génération précédente, grâce à des fréquences de fonctionnement natives revues à la hausse et à un contrôleur graphique encore plus performant.
+6|Intel|Core|i3-8100|3.9|199€95|06.jpg|Le processeur Intel Core i3-8100 offre des performances de pointe grâce à sa fréquence native de 3.6 GHz, ses 4 Coeurs et 4 threads, ses 6 Mo de cache et son BUS système 8GT/s. Vous pourrez jouer aux derniers jeux vidéo, regarder des films, créer et retoucher du contenu.
+7|Intel|Core|i3-8350K|4.0|239€95|07.jpg|Le processeur Intel Core i3-8350K offre des performances de pointe grâce à sa fréquence native de 4.0 GHz, ses 4 Coeurs et 4 threads, ses 8 Mo de cache et son BUS système 8GT/s. Vous pourrez jouer aux derniers jeux vidéo, regarder des films, créer et retoucher du contenu.
+8|Intel|Core|I5-4210M|2.6|175€96|08.jpg|Haswell est la 4ème génération de processeurs Intel Core. Plus puissants, plus efficaces et plus économes que jamais, les processeurs Intel Core de 4ème génération offrent des performances encore plus sensationnelles et une expérience visuelle toujours aussi bluffante.
+9|Intel|Core|i5-7400|3.0|249€95|09.jpg|Idéals pour jouer, travailler ou vous divertir, les processeurs Intel Kaby Lake délivrent encore plus de puissance que les processeurs Intel de la génération précédente, grâce à des fréquences de fonctionnement natives revues à la hausse et à un contrôleur graphique encore plus performant.
+10|Intel|Core|i5-8500|3.0|319€95|10.jpg|Le processeur Intel Core i5-8500 offre des performances de pointe grâce à sa fréquence native de 3.0 GHz (4.1 GHz en mode Turbo), ses 6 Coeurs et 6 threads, ses 9 Mo de cache et son BUS système 8GT/s. Vous pourrez jouer aux derniers jeux vidéo, regarder des films, créer et retoucher du contenu.
+11|Intel|Core|i5-8600|3.1|339€95|11.jpg|Le processeur Intel Core i5-8600 offre des performances de pointe grâce à sa fréquence native de 3.1 GHz (4.2 GHz en mode Turbo), ses 6 Coeurs et 6 threads, ses 9 Mo de cache et son BUS système 8GT/s. Vous pourrez jouer aux derniers jeux vidéo, regarder des films, créer et retoucher du contenu.
+12|Intel|Core|i5-8600K|3.6|349€94|12.jpg|Le processeur Intel Core i5-8600 offre des performances de pointe grâce à sa fréquence native de 3.1 GHz (4.2 GHz en mode Turbo), ses 6 Coeurs et 6 threads, ses 9 Mo de cache et son BUS système 8GT/s. Vous pourrez jouer aux derniers jeux vidéo, regarder des films, créer et retoucher du contenu.
+13|Intel|Core|i7-6700|3.4|369€95|13.jpg|Grâce à une finesse de gravure revue à la baisse (0.014 micron), une mémoire cache L3 plus importante (6 Mo), un BUS système plus large (8 GT/s) et un contrôleur mémoire DDR3L/DDR4, les processeurs Intel Core i7 Skylake délivrent des performances sur mesure et sous contrôle.
+14|Intel|Core|i7-6800K|3.4|519€95|14.jpg|PC de Réalité Virtuelle, PC Gaming haut de gamme, Station de travail surpuissante, le processeur Intel Core i7-6800K (3.4 GHz) (Intel Broadwell-E) est capable de tout faire, tout simplement. Multitâche intensif, jeux vidéo, création et édition de contenu numérique...Rien ne lui résiste !
+15|Intel|Core|i7-8700K|3.7|539€95|15.jpg|Le processeur Intel Core i7-8700K offre des performances de pointe grâce à sa fréquence native de 3.7 GHz (4.7 GHz en mode Turbo), ses 6 Coeurs et 12 threads, ses 12 Mo de cache et son BUS système 8GT/s. Vous pourrez jouer aux derniers jeux vidéo, regarder des films, créer et retoucher du contenu.
+16|AMD|A10|9700|3.5|71€95|16.jpg|Le processeur AMD A10 9700, basé sur l'architecture Excavator, est un modèle Quad Core sur socket AM4 qui optimisera votre productivité, votre expérience multimédia et vos plaisirs gaming. Il se dote d'une fréquence native de 3.5 GHz, de 2 Mo de cache L2 et d'un contrôleur graphique R7.
+17|AMD|A10|9800E|3.1|104€95|17.jpg|Le processeur AMD A10 9700, basé sur l'architecture Excavator, est un modèle Quad Core sur socket AM4 qui optimisera votre productivité, votre expérience multimédia et vos plaisirs gaming. Il se dote d'une fréquence native de 3.5 GHz, de 2 Mo de cache L2 et d'un contrôleur graphique R7.
+18|AMD|A6|9500E|3|54€25|18.jpg|Le processeur AMD A6 9500E, basé sur l'architecture Excavator, est un modèle Dual Core sur socket AM4 qui optimisera votre productivité, votre expérience multimédia et vos plaisirs gaming. Il se dote d'une fréquence native de 3 GHz, de 1 Mo de cache L2 et d'un contrôleur graphique R5.
+19|AMD|Athlon|200GE|3.2|57€95|19.jpg|L'AMD Athlon 200GE (3.2 GHz) est un processeur Dual-Core et 4 Threads basse consommation avec une partie graphique intégrée. Il embarque 2 coeurs "Zen" et un chipset graphique Radeon Vega 3 coeurs. Travail, divertissement multimédia et jeux légers sont au menu avec ce processeur AMD Athlon 200GE.
+20|AMD|Athlon|X2 340|3.2|33€34|20.jpg|L'AMD Athlon X2 340 (3.2 GHz / 3.6 GHz) est un processeur Dual-Core bénéficiant d'une architecture 0.032µ et destiné aux plateformes FM2 (socket processeur). Faites plus de choses en moins de temps et profitez au maximum de votre expérience numérique grâce aux performances multicoeurs.

@@ -1,20 +1,20 @@
-1|ASRock|760|GM-HDV|micro-ATX|61€96|01.jpg
-2|ASRock|970|Pro3 R2.0|ATX|79€96|02.jpg
-3|ASRock|970M|Pro3|ATX|78€35|03.jpg
-4|ASRock|A320M|Pro4|micro ATX|77€95|04.jpg
-5|ASRock|A320M|-DGS|Micro ATX|49€96|05.jpg
-6|ASRock|A320M|-HDV|Micro ATX|61€65|06.jpg
-7|ASRock|AB350|Pro4|ATX|106€96|07.jpg
-8|ASRock|AB350M|Pro4|Micro ATX|81€46|08.jpg
-9|ASRock|AB350M|-HDV|ATX|79€96|09.jpg
-10|ASRock|B250|Pro4|ATX|91€96|10.jpg
-11|ASRock|B250M|-HDV|Micro ATX|69€95|11.jpg
-12|MSI|A320M|PRO-M2|Micro ATX|59€95|12.jpg
-13|MSI|B250M|PRO-VDH|Micro ATX|89€95|13.jpg
-14|MSI|B350|PC MATE|Micro ATX|113€95|14.jpg
-15|MSI|B350|TOMAHAWK|ATX|129€95|15.jpg
-16|MSI|B350M|BAZOOKA|Micro ATX|104€45|16.jpg
-17|MSI|B350M|MORTAR|Micro ATX|109€96|17.jpg
-18|MSI|B350M|PRO-VDH|Micro ATX|94€95|18.jpg
-19|MSI|B360|GAMING PLUS|ATX|129€95|19.jpg
-20|MSI|B360M|BAZOOKA|Micro ATX|104€45|20.jpg
+1|ASRock|760|GM-HDV|micro-ATX|61€96|01.jpg|Grâce à la carte mère ASRock 760GM-HDV vous pourrez assembler une machine bureautique ou multimédia aux performances honorables à moindre coût. Son socket AM3/AM3+ la rend compatible avec une large gamme de processeur AMD dans la limite de 125W de TDP.
+2|ASRock|970|Pro3 R2.0|ATX|79€96|02.jpg|La carte mère ASRock 970 Pro3 R2.0 est basée sur le jeu de composants AMD 970. Ce dernier offre une connectivité et des fonctionnalités de dernière génération, idéales pour l'informatique haute performance des stations de travail avancées ou des configurations Gamer abordables.
+3|ASRock|970M|Pro3|ATX|78€35|03.jpg|La carte mère ASRock 970M Pro3 est basée sur le jeu de composants AMD 970. Ce dernier offre une connectivité et des fonctionnalités de dernière génération, idéales pour l'informatique haute performance des stations de travail avancées ou des configurations Gamer abordables.
+4|ASRock|A320M|Pro4|micro ATX|77€95|04.jpg|Basée sur le chipset AMD AM4, la carte mère ASRock A320M Pro4 est conçue pour accueillir les processeurs AMD Ryzen. Elle permettra l'assemblage d'une configuration Multimédia ou bureautique à moindre coût tout étant équipée d'un processeur performant et dotée de fonctionnalités exclusives ASRock.
+5|ASRock|A320M|-DGS|Micro ATX|49€96|05.jpg|Basée sur le chipset AMD AM4, la carte mère ASRock A320M-DGS est conçue pour accueillir les processeurs AMD Ryzen. Elle permettra l'assemblage d'une configuration Multimédia ou bureautique à moindre coût tout étant équipée d'un processeur performant et en conservant une taille réduite.
+6|ASRock|A320M|-HDV|Micro ATX|61€65|06.jpg|Basée sur le chipset AMD AM4, la carte mère ASRock A320M-HDV est conçue pour accueillir les processeurs AMD Ryzen. Elle permettra l'assemblage d'une configuration Multimédia ou bureautique à moindre coût tout étant équipée d'un processeur performant et en conservant une taille réduite.
+7|ASRock|AB350|Pro4|ATX|106€96|07.jpg|Basée sur le chipset AMD AM4, la carte mère ASRock AB350 Pro4 est conçue pour accueillir les processeurs AMD Ryzen. Elle permettra l'assemblage d'une configuration Multimédia ou bureautique à moindre coût tout étant équipée d'un processeur performant et dotée de fonctionnalités exclusives ASRock.
+8|ASRock|AB350M|Pro4|Micro ATX|81€46|08.jpg|Basée sur le chipset AMD AM4, la carte mère ASRock AB350M Pro4 est conçue pour accueillir les processeurs AMD Ryzen. Elle permettra l'assemblage d'une configuration Multimédia ou bureautique à moindre coût tout étant équipée d'un processeur performant et dotée de fonctionnalités exclusives ASRock.
+9|ASRock|AB350M|-HDV|ATX|79€96|09.jpg|Basée sur le chipset AMD B350, la carte mère ASRock AB350M-HDV est conçue pour accueillir les processeurs AMD Ryzen. Elle permettra l'assemblage d'une configuration Multimédia ou bureautique à moindre coût tout étant équipée d'un processeur performant et en conservant une taille réduite.
+10|ASRock|B250|Pro4|ATX|91€96|10.jpg|Basée sur le chipset Intel B250 Express, la carte mère ASRock B250 Pro4 est conçue pour accueillir les processeurs Intel Core de 7ème génération (Intel Kaby Lake). Elle permettra l'assemblage d'une configuration Multimédia ou bureautique à moindre coût.
+11|ASRock|B250M|-HDV|Micro ATX|69€95|11.jpg|Basée sur le chipset Intel B250 Express, la carte mère ASRock B250M-HDV est conçue pour accueillir les processeurs Intel Core de 7ème génération (Intel Kaby Lake). Elle permettra l'assemblage d'une configuration Multimédia ou bureautique à moindre coût.
+12|MSI|A320M|PRO-M2|Micro ATX|59€95|12.jpg|Basée sur le chipset AMD A320, la carte mère MSI A320M PRO-M2 est conçue pour accueillir les processeurs AMD Ryzen sur socket AMD AM4. Elle permettra l'assemblage d'une configuration Multimédia ou bureautique à moindre coût.
+13|MSI|B250M|PRO-VDH|Micro ATX|89€95|13.jpg|Basée sur le chipset Intel B250 Express, la carte mère MSI B250M PRO-VDH est conçue pour accueillir les processeurs Intel Core de 7ème génération (Intel Kaby Lake). Elle permettra l'assemblage d'une configuration Multimédia ou bureautique à moindre coût.
+14|MSI|B350|PC MATE|Micro ATX|113€95|14.jpg|Basée sur le chipset AMD B350, la carte mère MSI B350 PC MATE est conçue pour accueillir les processeurs AMD Ryzen sur socket AMD AM4. Elle permettra l'assemblage d'une configuration Multimédia ou bureautique à moindre coût.
+15|MSI|B350|TOMAHAWK|ATX|129€95|15.jpg|La carte mère MSI B350 Tomahawk fait partie de la gamme Arsenal Gaming qui regroupe des cartes mères gaming arborant un look agressif grâce à de larges radiateurs qui leur assurent d'être parées à tous les combats. Elle est compatible avec les processeurs AMD Ryzen sur socket AMD AM4.
+16|MSI|B350M|BAZOOKA|Micro ATX|104€45|16.jpg|La carte mère MSI B350M Bazooka fait partie de la gamme Arsenal Gaming qui regroupe des cartes mères gaming arborant un look agressif grâce à de larges radiateurs qui leur assurent d'être parées à tous les combats. Elle est compatible avec les processeurs AMD Ryzen sur socket AMD AM4.
+17|MSI|B350M|MORTAR|Micro ATX|109€96|17.jpg|La carte mère MSI B350M Mortar fait partie de la gamme Arsenal Gaming qui regroupe des cartes mères gaming arborant un look agressif grâce à de larges radiateurs qui leur assurent d'être parées à tous les combats. Elle est compatible avec les processeurs AMD Ryzen sur socket AMD AM4.
+18|MSI|B350M|PRO-VDH|Micro ATX|94€95|18.jpg|Basée sur le chipset AMD B350, la carte mère MSI B350M PRO-VDH est conçue pour accueillir les processeurs AMD Ryzen sur socket AMD AM4. Elle permettra l'assemblage d'une configuration Multimédia ou bureautique à moindre coût.
+19|MSI|B360|GAMING PLUS|ATX|129€95|19.jpg|Basée sur le chipset Intel B360 Express, la carte mère MSI B360 GAMING PLUS est conçue pour accueillir les processeurs Intel Core de 8ème génération (Intel Coffee Lake). Elle permettra l'assemblage d'une configuration gaming ou multimédia à moindre coût.
+20|MSI|B360M|BAZOOKA|Micro ATX|104€45|20.jpg|Basée sur le chipset Intel B360 Express, la carte mère MSI B360M BAZOOKA est conçue pour accueillir les processeurs Intel Core de 8ème génération (Intel Coffee Lake). Au format Micro-ATX, elle permettra l'assemblage d'une configuration gaming redoutablement efficace à moindre coût.

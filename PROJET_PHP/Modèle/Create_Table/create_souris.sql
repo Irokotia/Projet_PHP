@@ -4,5 +4,6 @@ create Table Souris (
   modele STRING,
   ref STRING,
   prix STRING,
-  img STRING
+  img STRING,
+  description STRING
 );

@@ -6,5 +6,6 @@ create Table CarteMère (
   ref STRING,
   format STRING,
   prix STRING,
-  img STRING
+  img STRING,
+  description STRING
 );

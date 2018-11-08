@@ -5,5 +5,6 @@ create Table Processeur (
   ref STRING,
   Ghz STRING,
   prix STRING,
-  img STRING
+  img STRING,
+  description STRING
 );
