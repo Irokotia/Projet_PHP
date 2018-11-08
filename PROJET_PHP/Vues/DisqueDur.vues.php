@@ -69,7 +69,8 @@
             <div class="box">
 
             <a href="DisqueDur2.ctrl.php?id=<?php echo $id ?>">
-            <img src="<?= $url ?>" />
+            <img src="<?='../Vues/Images/ImagesCarteMère/'.$url->img ?>" />
+            <span><?php echo $url->modele ?></span>
               </div>
             </a>
            <?php } ?>
