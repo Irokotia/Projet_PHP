@@ -21,7 +21,7 @@ $pageApres = $page+1;
 
 $config = parse_ini_file('../config/config.ini');
 
-$DisqueDur = new CarteMèreDAO($config['database_path']);
+$DisqueDur = new DisqueDurDAO($config['database_path']);
 
 for($i = 1+($nbDisqueDur*($page - 1)); $i < ($nbDisqueDur+1)+($nbDisqueDur*($page - 1)); $i++){
 	// Récupération de l'objet DisqueDur
@@ -31,5 +31,5 @@ for($i = 1+($nbDisqueDur*($page - 1)); $i < ($nbDisqueDur+1)+($nbDisqueDur*($pag
 }
 
 //var_dump($list);
-include('../view/main.view.php');
+include('../Vues/DisqueDur.vues.php');
 ?>

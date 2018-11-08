@@ -30,6 +30,6 @@ for($i = 1+($nbCarteMère*($page - 1)); $i < ($nbCarteMère+1)+($nbCarteMère*($
 	$list[$i] = '../Vues/Images/ImagesCarteMère/'.$c->img;
 }
 
-//var_dump($list);
+var_dump($list);
 include('../Vues/CarteMère.vues.php');
 ?>

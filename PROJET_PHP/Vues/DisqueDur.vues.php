@@ -57,16 +57,14 @@
 
     <!----=====category boxes===----->
     <div class="container">
-        <div id="heading-block">
-            <h2>Composants</h2>
-        </div>
-        <!---1st catbox--->
-        <a href="#">
-            <div class="catbox">
-                <img src="images/nvidia1.jpg" alt="Carte graphique NVIDIA">
-                <span>Carte graphique NVIDIA</span>
-            </div>
-        </a>
+
+      <?php foreach($list as $id => $url){   ?>
+      <a href="DisqueDur2.ctrl.php?id=<?php echo $id ?>">
+      <img src="<?= $url ?>" />
+      </a>
+     <?php } ?>
+
+    </div>
 
         <div id="footer">
             <div class="container">
