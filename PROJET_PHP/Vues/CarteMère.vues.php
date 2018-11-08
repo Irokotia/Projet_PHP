@@ -68,7 +68,11 @@
             <div class="box">
 
             <a href="CarteMère2.ctrl.php?id=<?php echo $id ?>">
+<<<<<<< HEAD
             <img src="<?= $url->img ?>" />
+=======
+            <img src="<?= '../Vues/Images/ImagesCarteMère/'.$url->img ?>" />
+>>>>>>> 18769baed6becf3b251cb58e2160ccade9918aad
               <span><?php echo $url->modele ?></span>
               </div>
             </a>

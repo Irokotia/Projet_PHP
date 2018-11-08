@@ -28,8 +28,12 @@ for($i = 1+($nbCarteMère*($page - 1)); $i < ($nbCarteMère+1)+($nbCarteMère*($
 	$c = $CarteMère->get($i);
 	// Ajout à la liste des images à afficher
 	$list[$i] = $c;
+<<<<<<< HEAD
 	//$list[$i] = '../Vues/Images/ImagesCarteMère/'.$c->img;
 	//$list2[$i] = $c->modele;
+=======
+	$list2[$i] = $c->modele;
+>>>>>>> 18769baed6becf3b251cb58e2160ccade9918aad
 }
 
 //var_dump($list);
