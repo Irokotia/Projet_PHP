@@ -64,13 +64,13 @@
 
               <h2>Liste des produits</h2>
           </div>
-          
+
           <a href="CarteMère.php?firstId=<?= $pageAvant ?>&nbMusic=<?= $nbCarteMère ?>">
           <img src="../Vues/Images/ImagesSwitch/Actions-arrow-left-icon.png" alt="Flèche gauche"></a>
           <?= $page ?>
           <a href ="CarteMère.ctrl.php?firstId=1">
           <img src="../Vues/Images/ImagesSwitch/Actions-arrow-top-icon.png" alt="Menu principal"></a>
-          <a href="CarteMère.ctrl.php?firstId=<?= $pageApres ?>&nbMusic=<?= $nbMusic ?>">
+          <a href="CarteMère.ctrl.php?firstId=<?= $pageApres ?>&nbMusic=<?= $nbCarteMère ?>">
           <img src="../Vues/Images/ImagesSwitch/Actions-arrow-right-icon.png" alt="Flèche droite"></a></p>
 
           <?php foreach($list as $id => $url){   ?>
