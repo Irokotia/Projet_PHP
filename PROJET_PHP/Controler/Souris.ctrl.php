@@ -26,8 +26,8 @@ $Souris = new SourisDAO($config['database_path']);
 for($i = 1+($nbSouris*($page - 1)); $i < ($nbSouris+1)+($nbSouris*($page - 1)); $i++){
 	// Récupération de l'objet Souris
 	$s = $Souris->get($i);
-	// Ajout à la liste des images à afficher
-	$list[$i] = '../Vues/Images/ImagesSouris/'.$s->img;
+	// Ajout $s
+	$list[$i] = $s;
 }
 
 //var_dump($list);

@@ -26,8 +26,8 @@ $Processeur = new ProcesseurDAO($config['database_path']);
 for($i = 1+($nbProcesseur*($page - 1)); $i < ($nbProcesseur+1)+($nbProcesseur*($page - 1)); $i++){
 	// Récupération de l'objet Processeur
 	$p = $Processeur->get($i);
-	// Ajout à la liste des images à afficher
-	$list[$i] = '../Vues/Images/ImagesProcesseur/'.$p->img;
+	// Ajout $p
+	$list[$i] = $p;
 }
 
 //var_dump($list);
