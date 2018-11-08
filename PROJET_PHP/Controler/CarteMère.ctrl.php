@@ -28,8 +28,3 @@ for($i = 1+($nbCarteMère*($page - 1)); $i < ($nbCarteMère+1)+($nbCarteMère*($
 	$c = $CarteMère->get($i);
 	// Ajout à la liste des images à afficher
 	$list[$i] = $c;
-}
-
-//var_dump($list);
-include('../Vues/CarteMère.vues.php');
-?>
