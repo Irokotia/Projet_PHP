@@ -1,6 +1,6 @@
 <?php
 require_once('../Modèle/Processeur.class.php');
-require_once('../Modèle/Processeur.class.php');
+require_once('../Modèle/ProcesseurDAO.class.php');
 
 if (isset($_GET["firstId"]) == false ) {
 	$page = 1;

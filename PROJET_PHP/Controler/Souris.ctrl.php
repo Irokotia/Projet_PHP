@@ -1,6 +1,6 @@
 <?php
 require_once('../Modèle/Souris.class.php');
-require_once('../Modèle/Souris.class.php');
+require_once('../Modèle/SourisDAO.class.php');
 
 if (isset($_GET["firstId"]) == false ) {
 	$page = 1;
