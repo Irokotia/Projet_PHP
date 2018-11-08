@@ -1,20 +1,20 @@
-1|Corsair|Dark|Core RGB|99€95|01.jpg
-2|Corsair|Dark|Core RGB SE|109€95|02.jpg
-3|Corsair|Gaming|Glaive RGB|79€95|03.jpg
-4|Corsair|Gaming|M65 PRO RGB|69€95|04.jpg
-5|Corsair|Gaming|Sabre RGB|49€96|05.jpg
-6|Corsair|Gaming|Scimitar Pro RGB|89€95|06.jpg
-7|Acer|Predator|Cestus 300|69€35|07.jpg
-8|Acer|Predator|Cestus 500|93€15|08.jpg
-9|Acer|Predator|Gaming Mouse|79€95|09.jpg
-10|ASUS|Cerberus|Fortus|49€90|10.jpg
-11|ASUS|Cerberus|Mouse|39€90|11.jpg
-12|ASUS|ROG Republic of Gamers|Gladius|69€95|12.jpg
-13|ASUS|ROG Republic of Gamers|Gladius II|89€95|13.jpg
-14|ASUS|ROG Republic of Gamers|GX850|44€95|14.jpg
-15|ASUS|ROG Republic of Gamers|GX860|79€95|15.jpg
-16|ASUS|ROG Republic of Gamers|Pugio|79€95|16.jpg
-17|ASUS|ROG Republic of Gamers|Sica|49€90|17.jpg
-17|ASUS|ROG Republic of Gamers|Spatha|159€95|18.jpg
-19|ASUS|ROG Republic of Gamers|Strix Evolve|49€90|19.jpg
-20|ASUS|ROG Republic of Gamers|Strix Impact|49€99|20.jpg
+1|Corsair|Dark|Core RGB|99€95|01.jpg|La souris DARK CORE RGB de Corsair va vous faire faire un grand pas en avant en vous proposant une connexion filaire (USB) et non filaire (Bluetooth/RF) avec des capteurs de 16 000 dpi pour des performances de gaming exceptionnelles. Cette souris allie précision et contrôle.
+2|Corsair|Dark|Core RGB SE|109€95|02.jpg|La souris Dark Core RGB SE Performance de Corsair va vous faire faire un grand pas en avant en vous proposant une connexion filaire (USB) et non filaire (Bluetooth/RF) avec des capteurs de 16 000 dpi pour des performances de gaming exceptionnelles. Cette souris allie précision et contrôle.
+3|Corsair|Gaming|Glaive RGB|79€95|03.jpg|La souris Gaming Corsair Glaive RGB est la souris PC ultime alliant performances et confort. Conçue pour le Hardcore Gamer qui sommeille en vous, elle offre hautes précisions, glisse parfaite et ergonomie sans faille pour de longues sessions de jeu.
+4|Corsair|Gaming|M65 PRO RGB|69€95|04.jpg|Aux commandes de votre souris optique Corsair Gaming M65 Pro RGB, vous allez pouvoir mettre toutes les chances de votre côté. Dotée d'un capteur optique de 12000 DPI, d'un bouton sniper et de trois zones d'éclairage personnalisables, cette souris sera un partenaire redoutable !
+5|Corsair|Gaming|Sabre RGB|49€96|05.jpg|Pour parfaire son équipement de jeu, la souris Corsair Gaming Sabre RGB 10 000 DPI est un allié de poids. Un modèle ultra-léger de seulement 100 grammes doté d'un taux de rafraîchissement de 1000 Hz. Vous disposez également de 8 boutons programmables et de commutateurs super-réactifs.
+6|Corsair|Gaming|Scimitar Pro RGB|89€95|06.jpg|Toutes vos attentes seront comblées avec la souris Corsair Gaming Scimitar Pro RGB. Avec ses 17 boutons programmables et son capteur optique réglable jusqu'à 16000 dpi, vous disposez d'une arme absolue pour terrasser vos adversaires sur les jeux MOBA et MMO.
+7|Acer|Predator|Cestus 300|69€35|07.jpg|Gagnez en confort et en précision avec la souris Acer Predator Cestus 300. Grâce à son capteur optique 5000 dpi, elle offre un haut niveau de précision. Son design ambidextre offre une prise en main confortable pour gauchers et droitiers.
+8|Acer|Predator|Cestus 500|93€15|08.jpg|Equipez-vous royalement avec la souris Acer Predator Cestus 500, ses 8 boutons programmables et son capteur optique 7200 dpi. Ce modèle est paré pour vos aventures gaming grâce son design ambidextre, ses 5 profils paramétrables et son rétro-éclairage RGB.
+9|Acer|Predator|Gaming Mouse|79€95|09.jpg|Destinée principalement aux gamers, la souris Acer Predator possède des lignes épurées pour une bonne prise en main, des fonctionnalités complètes et de multiples personnalisations possibles.
+10|ASUS|Cerberus|Fortus|49€90|10.jpg|La Cerberus Fortus d'Asus est une souris gaming ambidextre qui vous permet de prendre le dessus sur vos adversaires sur le champ de bataille. Sa base en alliage de magnésium, son rétroéclairage LED RGB et ses switches Omron en feront une précieuse alliée pour vos parties.
+11|ASUS|Cerberus|Mouse|39€90|11.jpg|Avec la Cerberus Mouse d'ASUS, partez à l'assaut des meilleurs jeux avec un équipement performant capable de vous suivre même lors de parties intenses ! Cette souris gaming optique offre une conception ambidextre avec bouton de contrôle des DPI et indicateur LED.
+12|ASUS|ROG Republic of Gamers|Gladius|69€95|12.jpg|La souris ASUS ROG Gladius est conçue pour les joueurs amateurs de FPS. Son design ergonomique avec revêtement agréable au toucher et motifs caoutchoutés assurent une excellente prise en main. Performante et pratique, elle dispose même de commutateurs Omron amovibles faciles à remplacer.
+13|ASUS|ROG Republic of Gamers|Gladius II|89€95|13.jpg|La souris Gladius II signée ASUS ROG fera une entrée fracassante dans votre arsenal ! Avec son capteur optique 12000 dpi, son bouton sniper et son rétro-éclairage RGB Aura Sync, ce modèle propose une efficacité redoutable. Pour votre confort, les switches sont interchangeables.
+14|ASUS|ROG Republic of Gamers|GX850|44€95|14.jpg|Avec la souris ASUS ROG GX850, vous pourrez facilement alterner entre une résolution allant de 1200 à 5000 dpi selon les besoins de votre jeu. Son design confortable vous permettra de jouer pendant des heures sans ressentir de gêne et la texture caoutchoutée assure une bonne prise en main.
+15|ASUS|ROG Republic of Gamers|GX860|79€95|15.jpg|La souris gaming ASUS ROG GX860 Buzzard a été conçue dans un seul but : répondre à toutes les exigences des gamers. Recherche de précision et de confort, interrupteurs Omron, capteur laser allant jusqu'à 8200 dpi : la Buzzard est une souris haut de gamme entièrement dédiée au gaming.
+16|ASUS|ROG Republic of Gamers|Pugio|79€95|16.jpg|Préparez-vous au combat avec la souris ASUS ROG Pugio ! Dotée d'un capteur optique 7200 dpi, cette souris filaire vous apportera la précision nécessaire enchaîner les victoires. Appréciez une configuration modulable des boutons latéraux et des commutateurs ainsi qu'un rétro-éclairage RGB.
+17|ASUS|ROG Republic of Gamers|Sica|49€90|17.jpg|La souris ASUS ROG Sica est conçue avant tout pour répondre aux besoins des longues sessions de MOBA (Multiplayer Online Battle Arena) et sa conception a reçu la contribution de l'équipe de pro-gamers "Taipei Assassins".
+17|ASUS|ROG Republic of Gamers|Spatha|159€95|18.jpg|La souris Spatha d'ASUS ROG possède la particularité d'un mode filaire et sans fil. A vous de choisir selon vos envies et la nécessité du moment. Sur le plan technique, la Spatha offre 12 boutons programmables, un capteur laser 8200 DPI et un rétro-éclairage multicolore sur trois zones.
+19|ASUS|ROG Republic of Gamers|Strix Evolve|49€90|19.jpg|La souris Spatha d'ASUS ROG possède la particularité d'un mode filaire et sans fil. A vous de choisir selon vos envies et la nécessité du moment. Sur le plan technique, la Spatha offre 12 boutons programmables, un capteur laser 8200 DPI et un rétro-éclairage multicolore sur trois zones.
+20|ASUS|ROG Republic of Gamers|Strix Impact|49€99|20.jpg|D'allure élégante, la souris ASUS ROG Strix Impact cache une efficacité redoutable. Imaginé pour tous les joueurs avec un design ambidextre, ce modèle embarque un capteur optique 5000 dpi, 4 boutons et un rétro-éclairage RGB avec Aura Sync.

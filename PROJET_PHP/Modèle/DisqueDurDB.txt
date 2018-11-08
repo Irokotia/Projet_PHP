@@ -1,21 +1,21 @@
-1|Toshiba|L200|1To|Normal|59€95|01.jpg
-2|Toshiba|L200|1To|Bulk|59€95|02.jpg
-3|Toshiba|L200|2To|Normal|99€95|03.jpg
-4|Toshiba|L200|500Go|Normal|44€95|04.jpg
-5|Toshiba|N300|4To|Bulk|149€95|05.jpg
-6|Toshiba|N300|6To|Bulk|259€95|06.jpg
-7|Toshiba|N300|8To|Bulk|289€96|07.jpg
-8|Toshiba|P300|1To|Normal|56€55|08.jpg
-9|Toshiba|P300|1To|Bulk|49€96|09.jpg
-10|Toshiba|P300|2To|Bulk|69€35|10.jpg
-11|Toshiba|P300|3To|Bulk|89€95|11.jpg
-12|Toshiba|P300|500Go|Normal|45€90|12.jpg
-13|Toshiba|S300|10To|Normal|399€95|13.jpg
-14|Toshiba|S300|4To|Normal|169€96|14.jpg
-15|Toshiba|S300|5To|Normal|198€95|15.jpg
-16|Toshiba|S300|6To|Normal|249€95|16.jpg
-17|Toshiba|S300|8To|Normal|319€95|17.jpg
-18|Toshiba|V300|1To|Normal|54€95|18.jpg
-19|Toshiba|V300|2To|Normal|79€96|19.jpg
-20|Toshiba|V300|3To|Normal|99€95|20.jpg
-21|Toshiba|X300|4To|Normal|139€96|21.jpg
+1|Toshiba|L200|1To|Normal|59€95|01.jpg|Le disque dur pour PC portable 2.5 pouces L200 de Toshiba est destiné aux joueurs et aux utilisateurs quotidiens d'ordinateurs portables. Il est idéal pour augmenter la capacité de stockage de votre PC portable ou de votre console de jeux jusqu'à 2 To, sans compter sur la mémoire tampon de 128 Mo.
+2|Toshiba|L200|1To|Bulk|59€95|02.jpg|Le disque dur interne de 2,5 pouces L200 de Toshiba est conçu pour accroître la capacité de stockage de votre PC portable ou de votre console de jeux, avec une capacité allant jusqu'à 1 To (selon modèle).
+3|Toshiba|L200|2To|Normal|99€95|03.jpg|Le disque dur pour PC portable 2.5 pouces L200 de Toshiba est destiné aux joueurs et aux utilisateurs quotidiens d'ordinateurs portables. Il est idéal pour augmenter la capacité de stockage de votre PC portable ou de votre console de jeux jusqu'à 2 To, sans compter sur la mémoire tampon de 128 Mo.
+4|Toshiba|L200|500Go|Normal|44€95|04.jpg|Le disque dur pour PC portable 2.5 pouces L200 de Toshiba est destiné aux joueurs et aux utilisateurs quotidiens d'ordinateurs portables. Il est idéal pour augmenter la capacité de stockage de votre PC portable ou de votre console de jeux jusqu'à 2 To, sans compter sur la mémoire tampon de 128 Mo.
+5|Toshiba|N300|4To|Bulk|149€95|05.jpg|Conçu pour les NAS, le disque dur Toshiba N300 assure une fiabilité inégalée ! Dans l'univers exigeant du stockage de masse, le N300 assure des performances optimales et répond aux besoins d'endurance, de performances et d'évolutivité d'un système de stockage 24 h sur 24 et 7 jours sur 7.
+6|Toshiba|N300|6To|Bulk|259€95|06.jpg|Conçu pour les NAS, le disque dur Toshiba N300 assure une fiabilité inégalée ! Dans l'univers exigeant du stockage de masse, le N300 assure des performances optimales et répond aux besoins d'endurance, de performances et d'évolutivité d'un système de stockage 24 h sur 24 et 7 jours sur 7.
+7|Toshiba|N300|8To|Bulk|289€96|07.jpg|Conçu pour les NAS, le disque dur Toshiba N300 assure une fiabilité inégalée ! Dans l'univers exigeant du stockage de masse, le N300 assure des performances optimales et répond aux besoins d'endurance, de performances et d'évolutivité d'un système de stockage 24 h sur 24 et 7 jours sur 7.
+8|Toshiba|P300|1To|Normal|56€55|08.jpg|Le HDWD110EZSTA 1 To de la gamme P300 de Toshiba est un disque dur de 3,5" qui vous aidera à améliorer les performances de vos applications et de votre système. Une fois installé, ce disque dur Toshiba vous permettra d'optimiser les performances du système et des applications.
+9|Toshiba|P300|1To|Bulk|49€96|09.jpg|Le HDWD110UZSVA 1 To de la gamme P300 de Toshiba est un disque dur de 3,5" qui vous aidera à améliorer les performances de vos applications et de votre système. Une fois installé, ce disque dur Toshiba vous permettra d'optimiser les performances du système et des applications.
+10|Toshiba|P300|2To|Bulk|69€35|10.jpg|Le HDWD120UZSVA 2 To de la gamme P300 de Toshiba est un disque dur de 3,5" qui vous aidera à améliorer les performances de vos applications et de votre système. Une fois installé, ce disque dur Toshiba vous permettra d'optimiser les performances du système et des applications.
+11|Toshiba|P300|3To|Bulk|89€95|11.jpg|Le HDWD120UZSVA 2 To de la gamme P300 de Toshiba est un disque dur de 3,5" qui vous aidera à améliorer les performances de vos applications et de votre système. Une fois installé, ce disque dur Toshiba vous permettra d'optimiser les performances du système et des applications.
+12|Toshiba|P300|500Go|Normal|45€90|12.jpg|Le HDWD105EZSTA 500 Go de la gamme P300 de Toshiba est un disque dur de 3,5" qui vous aidera à améliorer les performances de vos applications et de votre système. Une fois installé, ce disque dur Toshiba vous permettra d'optimiser les performances du système et des applications.
+13|Toshiba|S300|10To|Normal|399€95|13.jpg|Le S300 Surveillance Hard Drive de 3.5 pouces de Toshiba est conçu et testé pour offrir une surveillance fiable 24 heures sur 24 et 7 jours sur 7. Il associe vitesse, capacité et conservation prolongée du contenu. Grâce au S300, vous capturez et analysez chacune des images en haute résolution.
+14|Toshiba|S300|4To|Normal|169€96|14.jpg|Le S300 Surveillance Hard Drive de 3.5 pouces de Toshiba est conçu et testé pour offrir une surveillance fiable 24 heures sur 24 et 7 jours sur 7. Il associe vitesse, capacité et conservation prolongée du contenu. Grâce au S300, vous capturez et analysez chacune des images en haute résolution.
+15|Toshiba|S300|5To|Normal|198€95|15.jpg|Le S300 Surveillance Hard Drive de 3.5 pouces de Toshiba est conçu et testé pour offrir une surveillance fiable 24 heures sur 24 et 7 jours sur 7. Il associe vitesse, capacité et conservation prolongée du contenu. Grâce au S300, vous capturez et analysez chacune des images en haute résolution.
+16|Toshiba|S300|6To|Normal|249€95|16.jpg|Le S300 Surveillance Hard Drive de 3.5 pouces de Toshiba est conçu et testé pour offrir une surveillance fiable 24 heures sur 24 et 7 jours sur 7. Il associe vitesse, capacité et conservation prolongée du contenu. Grâce au S300, vous capturez et analysez chacune des images en haute résolution.
+17|Toshiba|S300|8To|Normal|319€95|17.jpg|Le S300 Surveillance Hard Drive de 3.5 pouces de Toshiba est conçu et testé pour offrir une surveillance fiable 24 heures sur 24 et 7 jours sur 7. Il associe vitesse, capacité et conservation prolongée du contenu. Grâce au S300, vous capturez et analysez chacune des images en haute résolution.
+18|Toshiba|V300|1To|Normal|54€95|18.jpg|Le V300 Video Streaming Hard Drive 3.5 pouces de Toshiba offre un stockage jusqu'à 3 To. Il vous permet de diffuser, d'enregistrer, de monter et de lire des contenus vidéo sur un magnétoscope numérique, un téléviseur ou un enregistreur vidéo réseau, avec toute l'efficacité que vous recherchez.
+19|Toshiba|V300|2To|Normal|79€96|19.jpg|Le V300 Video Streaming Hard Drive 3.5 pouces de Toshiba offre un stockage jusqu'à 3 To. Il vous permet de diffuser, d'enregistrer, de monter et de lire des contenus vidéo sur un magnétoscope numérique, un téléviseur ou un enregistreur vidéo réseau, avec toute l'efficacité que vous recherchez.
+20|Toshiba|V300|3To|Normal|99€95|20.jpg|Le V300 Video Streaming Hard Drive 3.5 pouces de Toshiba offre un stockage jusqu'à 3 To. Il vous permet de diffuser, d'enregistrer, de monter et de lire des contenus vidéo sur un magnétoscope numérique, un téléviseur ou un enregistreur vidéo réseau, avec toute l'efficacité que vous recherchez.
+21|Toshiba|X300|4To|Normal|139€96|21.jpg|Destiné aux PC professionnels ou de jeux, le disque dur interne de 3,5 pouces X300 de Toshiba offre une grande capacité de stockage fiable et hautes performances grâce à plusieurs fonctionnalités avancées, dont une mémoire tampon de 128 Mo.
