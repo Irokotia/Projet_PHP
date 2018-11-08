@@ -69,8 +69,11 @@
             <img src="../Vues/Images/ImagesCarteMère/<?= $c->img ?>" alt="Image de la Carte Mère">
 
             <span><?php echo $c->prix ?></span>
+            </div>
 
+            <div class="box">
             <span><?php echo $c->description ?></span>
+            
 
           </div>
 
