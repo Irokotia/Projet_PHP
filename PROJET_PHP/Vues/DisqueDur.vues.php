@@ -5,7 +5,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <link href="../Vues/css/jquery.bxslider.css" rel="stylesheet" type="text/css">
     <link href="../Vues/fa/css/font-awesome.min.css" rel="stylesheet">
-    <link href="../Vues/css/style.css" rel="stylesheet" type="text/css">
+    <link href="../Vues/css/style2.css" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="../Vues/css/media.css">
 </head>
 
@@ -58,15 +58,23 @@
             </ul>
         </div>
         <!----=====category boxes===----->
+        <!----=====category boxes===----->
         <div class="container">
 
-            <?php foreach($list as $id => $url){   ?>
+          <div id="heading-block">
+              <h2>Liste des produits</h2>
+          </div>
+
+          <?php foreach($list as $id => $url){   ?>
+            <div class="box">
+
             <a href="DisqueDur2.ctrl.php?id=<?php echo $id ?>">
             <img src="<?= $url ?>" />
+              </div>
             </a>
            <?php } ?>
 
-          </div>
+        </div>
 
         <div id="footer">
             <div class="container">
