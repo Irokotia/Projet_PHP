@@ -13,5 +13,5 @@ $Processeur = new ProcesseurDAO($config['database_path']);
 // Récupération de l'objet processeur correspondant à l'id
 $p = $Processeur->get($id);
 
-include('../view/play.view.php');
+include('../Vues/Processeur.vues.php');
 ?>
