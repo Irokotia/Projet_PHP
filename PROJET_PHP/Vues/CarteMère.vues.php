@@ -67,13 +67,12 @@
           <?php foreach($list as $id => $url){   ?>
             <div class="box">
             <a href="CarteMère2.ctrl.php?id=<?php echo $id ?>">
-<<<<<<< HEAD
+
             <img src="<?= '../Vues/Images/ImagesCarteMère/'.$url->img ?>" />
 
-=======
+
             <img src="<?= $url->img ?>" />
             <img src="<?= '../Vues/Images/ImagesCarteMère/'.$url->img ?>" />
->>>>>>> 808303ba71749d3f5115af32691e62409b0ba51a
               <span><?php echo $url->modele ?></span>
               </div>
             </a>
