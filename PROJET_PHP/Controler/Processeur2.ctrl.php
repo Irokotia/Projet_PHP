@@ -10,7 +10,7 @@ $config = parse_ini_file('../config/config.ini');
 // Creation de l'instace DAO
 $Processeur = new ProcesseurDAO($config['database_path']);
 
-// Récupération de l'objet musique correspondant à l'id
+// Récupération de l'objet processeur correspondant à l'id
 $p = $Processeur->get($id);
 
 include('../view/play.view.php');

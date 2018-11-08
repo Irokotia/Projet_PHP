@@ -24,7 +24,7 @@ $config = parse_ini_file('../config/config.ini');
 $CarteMère = new CarteMèreDAO($config['database_path']);
 
 for($i = 1+($nbCarteMère*($page - 1)); $i < ($nbCarteMère+1)+($nbCarteMère*($page - 1)); $i++){
-	// Récupération de l'objet Music
+	// Récupération de l'objet CarteMère
 	$c = $CarteMère->get($i);
 	// Ajout à la liste des images à afficher
 	$list[$i] = '../Vues/Images/ImagesCarteMère/'.$c->img;

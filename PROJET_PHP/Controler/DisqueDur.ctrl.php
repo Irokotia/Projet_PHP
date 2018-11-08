@@ -24,7 +24,7 @@ $config = parse_ini_file('../config/config.ini');
 $DisqueDur = new CarteMèreDAO($config['database_path']);
 
 for($i = 1+($nbDisqueDur*($page - 1)); $i < ($nbDisqueDur+1)+($nbDisqueDur*($page - 1)); $i++){
-	// Récupération de l'objet Music
+	// Récupération de l'objet DisqueDur
 	$d = $DisqueDur->get($i);
 	// Ajout à la liste des images à afficher
 	$list[$i] = '../Vues/Images/ImagesDisqueDur/'.$d->img;
