@@ -10,7 +10,7 @@ $config = parse_ini_file('../config/config.ini');
 // Creation de l'instace DAO
 $CarteMère = new CarteMèreDAO($config['database_path']);
 
-// Récupération de l'objet cartemère correspondant à l'id
+// Récupération de l'objet CarteMère correspondant à l'id
 $c = $CarteMère->get($id);
 
 include('../view/play.view.php');
