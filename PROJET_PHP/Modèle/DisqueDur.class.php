@@ -8,5 +8,6 @@ class DisqueDur
 	public $type;
 	public $prix;
 	public $img;
+	public $description;
 }
 ?>

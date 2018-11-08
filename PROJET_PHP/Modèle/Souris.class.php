@@ -7,5 +7,6 @@ class Souris
 	public $ref;
 	public $prix;
 	public $img;
+	public $description;
 }
 ?>

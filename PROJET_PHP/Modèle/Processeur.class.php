@@ -8,5 +8,6 @@ class Processeur
 	public $Ghz;
 	public $prix;
 	public $img;
+	public $description;
 }
 ?>
