@@ -68,6 +68,7 @@
           <?php foreach($list as $id => $url){   ?>
             <div class="box">
 
+              <a href="Souris2.ctrl.php?id=<?php echo $id ?>">
               <img src="<?='../Vues/Images/ImagesSouris/'.$url->img ?>" />
               <span><?php echo $url->modele ?></span>
               </div>
