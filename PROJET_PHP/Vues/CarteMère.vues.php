@@ -64,9 +64,9 @@
               <h2>Nom du produit</h2>
           </div>
 
+          <?php foreach($list as $id => $url){   ?>
             <div class="box">
 
-            <?php foreach($list as $id => $url){   ?>
             <a href="CarteMère2.ctrl.php?id=<?php echo $id ?>">
             <img src="<?= $url ?>" />
               </div>
