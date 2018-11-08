@@ -86,7 +86,7 @@
                     <center>
                         <h2>Liens importants</h2>
                         <ul>
-                            <li><a href="#">Accueil</a></li>
+                            <li><a href="../index.html">Accueil</a></li>
                             <li><a href="#">Nouveaux Produits</a></li>
                             <li><a href="#">Bons Plans</a></li>
                             <li><a href="#">Composants</a></li>
