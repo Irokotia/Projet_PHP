@@ -1,4 +1,3 @@
 # Projet_PHP
 
-
-foiqhjqfiohfhjnohnsz <q
+Bonjour !
