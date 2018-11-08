@@ -25,5 +25,15 @@ $CarteMère = new CarteMèreDAO($config['database_path']);
 for($i = 1+($nbCarteMère*($page - 1)); $i < ($nbCarteMère+1)+($nbCarteMère*($page - 1)); $i++){
 	// Récupération de l'objet CarteMère
 	$c = $CarteMère->get($i);
+<<<<<<< HEAD
 // Ajout à la liste des images à afficher
 	$list[i] = $c;
+=======
+	// Ajout à la liste des images à afficher
+	$list[$i] = $c;
+}
+
+//var_dump($list);
+include('../Vues/CarteMère.vues.php');
+?>
+>>>>>>> 808303ba71749d3f5115af32691e62409b0ba51a
