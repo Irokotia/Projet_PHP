@@ -60,7 +60,7 @@
         <!----=====category boxes===----->
         <div class="container">
 
-            <img src="../Vues/Images/ImagesDisqueDur/<?= $d->img ?>" alt="Image de la Carte Mère">
+            <img src="../Vues/Images/ImagesProcesseur/<?= $p->img ?>" alt="Image de la Carte Mère">
 
           </div>
 
