@@ -13,5 +13,5 @@ $Souris = new SourisDAO($config['database_path']);
 // Récupération de l'objet souris correspondant à l'id
 $s = $Souris->get($id);
 
-include('../view/play.view.php');
+include('../Vues/Souris2.vues.php');
 ?>

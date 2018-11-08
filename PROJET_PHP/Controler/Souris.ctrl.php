@@ -1,6 +1,6 @@
 <?php
 require_once('../Modèle/Souris.class.php');
-require_once('../Modèle/Souris.class.php');
+require_once('../Modèle/SourisDAO.class.php');
 
 if (isset($_GET["firstId"]) == false ) {
 	$page = 1;
@@ -31,5 +31,5 @@ for($i = 1+($nbSouris*($page - 1)); $i < ($nbSouris+1)+($nbSouris*($page - 1)); 
 }
 
 //var_dump($list);
-include('../view/main.view.php');
+include('../Vues/Souris.vues.php');
 ?>

@@ -1,6 +1,6 @@
 <?php
 require_once('../Modèle/Processeur.class.php');
-require_once('../Modèle/Processeur.class.php');
+require_once('../Modèle/ProcesseurDAO.class.php');
 
 if (isset($_GET["firstId"]) == false ) {
 	$page = 1;
@@ -31,5 +31,5 @@ for($i = 1+($nbProcesseur*($page - 1)); $i < ($nbProcesseur+1)+($nbProcesseur*($
 }
 
 //var_dump($list);
-include('../view/main.view.php');
+include('../Vues/Processeur.vues.php');
 ?>
