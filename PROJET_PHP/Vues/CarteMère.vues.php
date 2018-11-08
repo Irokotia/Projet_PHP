@@ -65,15 +65,13 @@
           </div>
 
           <?php foreach($list as $id => $url){   ?>
-            <?php foreach($list2 as $id => $url2){   ?>
             <div class="box">
 
             <a href="CarteMère2.ctrl.php?id=<?php echo $id ?>">
-            <img src="<?= $url ?>" />
-              <span><?php echo $url2 ?></span>
+            <img src="<?= $url->img ?>" />
+              <span><?php echo $url->modele ?></span>
               </div>
             </a>
-           <?php } ?>
            <?php } ?>
 
         </div>
