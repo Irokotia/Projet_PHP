@@ -58,7 +58,6 @@
             </ul>
         </div>
         <!----=====category boxes===----->
-        <!----=====category boxes===----->
         <div class="container">
 
           <div id="heading-block">
@@ -69,7 +68,7 @@
             <div class="box">
 
             <a href="DisqueDur2.ctrl.php?id=<?php echo $id ?>">
-            <img src="<?='../Vues/Images/ImagesCarteMère/'.$url->img ?>" />
+            <img src="<?='../Vues/Images/ImagesDisqueDur/'.$url->img ?>" />
             <span><?php echo $url->modele ?></span>
               </div>
             </a>

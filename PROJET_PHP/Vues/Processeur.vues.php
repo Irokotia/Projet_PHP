@@ -68,8 +68,8 @@
           <?php foreach($list as $id => $url){   ?>
             <div class="box">
 
-            <a href="Processeur2.ctrl.php?id=<?php echo $id ?>">
-            <img src="<?= $url ?>" />
+              <img src="<?='../Vues/Images/ImagesProcesseur/'.$url->img ?>" />
+              <span><?php echo $url->modele ?></span>
               </div>
             </a>
            <?php } ?>
