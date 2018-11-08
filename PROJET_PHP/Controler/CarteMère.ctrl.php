@@ -1,6 +1,6 @@
 <?php
-require_once('../model/CarteMère.class.php');
-require_once('../model/CarteMèreDAO.class.php');
+require_once('../Modèle/CarteMère.class.php');
+require_once('../Modèle/CarteMèreDAO.class.php');
 
 if (isset($_GET["firstId"]) == false ) {
 	$page = 1;
@@ -27,7 +27,7 @@ for($i = 1+($nbMusic*($page - 1)); $i < ($nbMusic+1)+($nbMusic*($page - 1)); $i+
 	// Récupération de l'objet Music
 	$m = $jukebox->get($i);
 	// Ajout à la liste des images à afficher
-	$list[$i] = $config['data_url'].'/img/'.$m->cover;
+	$list[$i] = '../Vues/Images/ImagesCarteMère/'.$m->cover;
 }
 
 //var_dump($list);
