@@ -3,10 +3,10 @@
 <head>
     <title>::My Shop::</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <link href="css/jquery.bxslider.css" rel="stylesheet" type="text/css">
-    <link href="fa/css/font-awesome.min.css" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" href="css/media.css">
+    <link href="../Vues/css/jquery.bxslider.css" rel="stylesheet" type="text/css">
+    <link href="../Vues/fa/css/font-awesome.min.css" rel="stylesheet">
+    <link href="../Vues/css/style.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="../Vues/css/media.css">
 </head>
 
 <body>
@@ -14,7 +14,7 @@
         <div id="header">
             <div id="subheader">
                 <div class="container">
-                    <p>Choisir votre langue : <img src="imagesiteweb/franceflag.png"> Français</p>
+                    <p>Choisir votre langue : <img src="../Vues/imagesiteweb/franceflag.png"> Français</p>
                     <a href="#"></a><a href="#"></a><a href="#"></a><a href="#">Besoin d'aide ?</a>
                 </div>
             </div>
@@ -22,7 +22,7 @@
             <div id="main-header">
                 <!--logo-->
                 <div id="logo">
-                    <img src="imagesiteweb/logoprojet.png">
+                    <img src="../Vues/imagesiteweb/logoprojet.png">
                 </div>
                 <!--==search area==-->
                 <div id="search">
@@ -52,9 +52,9 @@
         <!--============home-slider==-->
         <div id="slider">
             <ul class="bxslider">
-                <li><img src="imagesiteweb/Slide1.png"></li>
-                <li><img src="imagesiteweb/Slide2.png"></li>
-                <li><img src="imagesiteweb/Slide3.png"></li>
+                <li><img src="../Vues/imagesiteweb/Slide1.png"></li>
+                <li><img src="../Vues/imagesiteweb/Slide2.png"></li>
+                <li><img src="../Vues/imagesiteweb/Slide3.png"></li>
             </ul>
         </div>
         <!----=====category boxes===----->
@@ -115,8 +115,8 @@
         </div>
 
     </div>
-    <script src="js/jquery.js"></script>
-    <script src="js/jquery.bxslider.min.js"></script>
-    <script src="js/my.js"></script>
+    <script src="../Vues/js/jquery.js"></script>
+    <script src="../Vues/js/jquery.bxslider.min.js"></script>
+    <script src="../Vues/js/my.js"></script>
 </body>
 </html>
