@@ -9,7 +9,7 @@ class CarteMèreDAO
 			$this->db = new PDO($database);
 		} catch (PDOException $e) {
 			die("ERREUR !!!".$e->getMessage());
-		}
+		} 
 	}
 
 	function get(int $id):CarteMère {
