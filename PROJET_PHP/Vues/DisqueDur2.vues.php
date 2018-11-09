@@ -80,11 +80,12 @@
 
             </div>
 
-<<<<<<< HEAD
             <div class="dispo">
 
               <span class="dispo"> Afin de voir les disponibilités de ce produit : <a href="https://www.ldlc.com/informatique/pieces-informatique/disque-dur-ssd/cint4297/">LDLC</a>
-=======
+
+            </div>
+
             <div class="fleches">
 
               <a href="DisqueDur2.ctrl.php?id=<?= $id - 1 ?>">
@@ -93,7 +94,6 @@
               <img src="../Vues/Images/ImagesSwitch/Actions-arrow-top-icon.png" alt="Menu principal"></a>
               <a href="DisqueDur2.ctrl.php?id=<?= $id + 1  ?>">
               <img src="../Vues/Images/ImagesSwitch/Actions-arrow-right-icon.png" alt="Flèche droite"></a></p>
->>>>>>> 714dbf7006612cdd7b646bdd8e6a8340dfce60ea
 
             </div>
 
