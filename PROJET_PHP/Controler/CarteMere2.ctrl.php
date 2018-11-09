@@ -13,5 +13,5 @@ $CarteMère = new CarteMèreDAO($config['database_path']);
 // Récupération de l'objet CarteMère correspondant à l'id
 $c = $CarteMère->get($id);
 
-include('../Vues/CarteMère2.vues.php');
+include('../Vues/CarteMere2.vues.php');
 ?>

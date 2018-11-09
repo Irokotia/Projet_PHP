@@ -29,5 +29,5 @@ for($i = 1+($nbCarteMère*($page - 1)); $i < ($nbCarteMère+1)+($nbCarteMère*($
 }
 
 //var_dump($list);
-include('../Vues/CarteMère.vues.php');
+include('../Vues/CarteMere.vues.php');
 ?>

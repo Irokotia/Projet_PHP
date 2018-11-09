@@ -65,17 +65,17 @@
               <h2>Liste des produits</h2>
           </div>
 
-          <a href="CarteMère.php?firstId=<?= $pageAvant ?>&nbCarteMère=<?= $nbCarteMère ?>">
+          <a href="CarteMere.php?firstId=<?= $pageAvant ?>&nbCarteMère=<?= $nbCarteMère ?>">
           <img src="../Vues/Images/ImagesSwitch/Actions-arrow-left-icon.png" alt="Flèche gauche"></a>
           <?= $page ?>
-          <a href ="CarteMère.ctrl.php?firstId=1">
+          <a href ="CarteMere.ctrl.php?firstId=1">
           <img src="../Vues/Images/ImagesSwitch/Actions-arrow-top-icon.png" alt="Menu principal"></a>
-          <a href="CarteMère.ctrl.php?firstId=<?= $pageApres ?>&nbCarteMère=<?= $nbCarteMère ?>">
+          <a href="CarteMere.ctrl.php?firstId=<?= $pageApres ?>&nbCarteMère=<?= $nbCarteMère ?>">
           <img src="../Vues/Images/ImagesSwitch/Actions-arrow-right-icon.png" alt="Flèche droite"></a></p>
 
           <?php foreach($list as $id => $url){   ?>
             <div class="box">
-            <a href="CarteMère2.ctrl.php?id=<?php echo $id ?>">
+            <a href="CarteMere2.ctrl.php?id=<?php echo $id ?>">
 
             <img src="<?= '../Vues/Images/ImagesCarteMère/'.$url->img ?>" />
 

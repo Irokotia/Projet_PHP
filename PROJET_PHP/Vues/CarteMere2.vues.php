@@ -73,7 +73,7 @@
 
             <div class="box">
             <span><?php echo $c->description ?></span>
-            
+
 
           </div>
 

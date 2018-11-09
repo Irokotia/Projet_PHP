@@ -41,7 +41,7 @@
            <a href="#" class="menu-togglr"><i class="fa fa-bars"></i></a>
             <ul>
                 <li><a href="../index.html">Accueil</a></li>
-                <li><a href="CarteMère.ctrl.php">Carte mère</a></li>
+                <li><a href="CarteMere.ctrl.php">Carte mère</a></li>
                 <li><a href="DisqueDur.ctrl.php">Disque dur</a></li>
                 <li><a href="Processeur.ctrl.php">Processeur</a></li>
                 <li><a href="Souris.ctrl.php">Souris</a></li>
@@ -69,7 +69,7 @@
                 </div>
             </a>
             <!---second box--->
-            <a href="CarteMère.ctrl.php">
+            <a href="CarteMere.ctrl.php">
                 <div class="box">
                     <img src="../Vues/Images/ImagesCarteMère/01.jpg" alt="Carte Mère">
                     <span>Carte Mère</span>
