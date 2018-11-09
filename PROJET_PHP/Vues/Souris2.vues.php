@@ -63,6 +63,13 @@
               <h2><?=$s->marque?>  <?=$s->modele?> <?=$s->ref?></h2>
           </div>
 
+          <a href="Souris2.ctrl.php?id=<?= $id - 1 ?>">
+          <img src="../Vues/Images/ImagesSwitch/Actions-arrow-left-icon.png" alt="Flèche gauche"></a>
+          <a href="Souris.ctrl.php?firstId=1&Souris=5">
+          <img src="../Vues/Images/ImagesSwitch/Actions-arrow-top-icon.png" alt="Menu principal"></a>
+          <a href="Souris2.ctrl.php?id=<?= $id + 1  ?>">
+          <img src="../Vues/Images/ImagesSwitch/Actions-arrow-right-icon.png" alt="Flèche droite"></a></p>
+
             <div class="box">
 
             <img src="../Vues/Images/ImagesSouris/<?= $s->img ?>" alt="Image de la Souris">

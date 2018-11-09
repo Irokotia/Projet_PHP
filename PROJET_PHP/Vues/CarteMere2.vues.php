@@ -65,7 +65,7 @@
 
           <a href="CarteMere2.ctrl.php?id=<?= $id - 1 ?>">
           <img src="../Vues/Images/ImagesSwitch/Actions-arrow-left-icon.png" alt="Flèche gauche"></a>
-          <a href ="<?= $_SERVER["HTTP_REFERER"] ?>">
+          <a href="CarteMere.ctrl.php?firstId=1&CarteMère=5">
           <img src="../Vues/Images/ImagesSwitch/Actions-arrow-top-icon.png" alt="Menu principal"></a>
           <a href="CarteMere2.ctrl.php?id=<?= $id + 1  ?>">
           <img src="../Vues/Images/ImagesSwitch/Actions-arrow-right-icon.png" alt="Flèche droite"></a></p>

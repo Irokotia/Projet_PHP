@@ -63,6 +63,13 @@
               <h2><?=$p->marque?> <?=$p->modele?> <?=$p->ref?> <?=$p->Ghz?></h2>
           </div>
 
+          <a href="Processeur2.ctrl.php?id=<?= $id - 1 ?>">
+          <img src="../Vues/Images/ImagesSwitch/Actions-arrow-left-icon.png" alt="Flèche gauche"></a>
+          <a href="Processeur.ctrl.php?firstId=1&Processeur=5">
+          <img src="../Vues/Images/ImagesSwitch/Actions-arrow-top-icon.png" alt="Menu principal"></a>
+          <a href="Processeur2.ctrl.php?id=<?= $id + 1  ?>">
+          <img src="../Vues/Images/ImagesSwitch/Actions-arrow-right-icon.png" alt="Flèche droite"></a></p>
+
             <div class="box">
 
             <img src="../Vues/Images/ImagesProcesseur/<?= $p->img ?>" alt="Image du processeur">
