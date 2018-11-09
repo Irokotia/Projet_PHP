@@ -229,10 +229,15 @@ nav a:hover{
 .dispo {
 	width:200px;
 	height: 50px;
-	padding-top: 1em;
-	padding-left: 3em;
+	padding-bottom: 3em;
+	padding-left: 4em;
 	float: left;
 	position: relative;
+}
+
+.dispo span {
+	color:black;
+	font-size: 24px;
 }
 
 .prix span {
