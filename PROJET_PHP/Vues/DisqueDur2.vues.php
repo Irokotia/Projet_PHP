@@ -63,13 +63,6 @@
               <h2><?=$d->marque?> <?=$d->modele?> <?=$d->taille?> <?=$d->type?></h2>
           </div>
 
-          <a href="DisqueDur2.ctrl.php?id=<?= $id - 1 ?>">
-          <img src="../Vues/Images/ImagesSwitch/Actions-arrow-left-icon.png" alt="Flèche gauche"></a>
-          <a href="DisqueDur.ctrl.php?firstId=1&DisqueDur=5">
-          <img src="../Vues/Images/ImagesSwitch/Actions-arrow-top-icon.png" alt="Menu principal"></a>
-          <a href="DisqueDur2.ctrl.php?id=<?= $id + 1  ?>">
-          <img src="../Vues/Images/ImagesSwitch/Actions-arrow-right-icon.png" alt="Flèche droite"></a></p>
-
             <div class="box">
 
             <img src="../Vues/Images/ImagesDisqueDur/<?= $d->img ?>" alt="Image du Disque Dur">
@@ -84,6 +77,17 @@
             <div class="prix">
 
               <span class="prix"> Prix : <bold><?php echo $d->prix ?></bold></span>
+
+            </div>
+
+            <div class="fleches">
+
+              <a href="DisqueDur2.ctrl.php?id=<?= $id - 1 ?>">
+              <img src="../Vues/Images/ImagesSwitch/Actions-arrow-left-icon.png" alt="Flèche gauche"></a>
+              <a href="DisqueDur.ctrl.php?firstId=1&DisqueDur=5">
+              <img src="../Vues/Images/ImagesSwitch/Actions-arrow-top-icon.png" alt="Menu principal"></a>
+              <a href="DisqueDur2.ctrl.php?id=<?= $id + 1  ?>">
+              <img src="../Vues/Images/ImagesSwitch/Actions-arrow-right-icon.png" alt="Flèche droite"></a></p>
 
             </div>
 
