@@ -227,10 +227,10 @@ nav a:hover{
 }
 
 .dispo {
-	width:500px;
-	height: 200px;
-	padding-top: 2.5em;
-	padding-left: 0.8em;
+	width:200px;
+	height: 50px;
+	padding-top: 1em;
+	padding-left: 3em;
 	float: left;
 	position: relative;
 }
