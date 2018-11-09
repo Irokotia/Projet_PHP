@@ -64,14 +64,6 @@
               <h2>Liste des produits</h2>
           </div>
 
-          <a href="Souris.ctrl.php?firstId=<?= $pageAvant ?>&nbSouris=<?= $nbSouris ?>">
-          <img src="../Vues/Images/ImagesSwitch/Actions-arrow-left-icon.png" alt="Flèche gauche"></a>
-          <?= $page ?>
-          <a href ="Souris.ctrl.php?firstId=1">
-          <img src="../Vues/Images/ImagesSwitch/Actions-arrow-top-icon.png" alt="Menu principal"></a>
-          <a href="Souris.ctrl.php?firstId=<?= $pageApres ?>&nbSouris=<?= $nbSouris?>">
-          <img src="../Vues/Images/ImagesSwitch/Actions-arrow-right-icon.png" alt="Flèche droite"></a></p>
-
           <?php foreach($list as $id => $url){   ?>
             <div class="box">
 
@@ -81,6 +73,18 @@
               </div>
             </a>
            <?php } ?>
+
+           <div class="fleches">
+
+             <a href="Souris.ctrl.php?firstId=<?= $pageAvant ?>&nbSouris=<?= $nbSouris ?>">
+             <img src="../Vues/Images/ImagesSwitch/Actions-arrow-left-icon.png" alt="Flèche gauche"></a>
+             <?= $page ?>
+             <a href ="Souris.ctrl.php?firstId=1">
+             <img src="../Vues/Images/ImagesSwitch/Actions-arrow-top-icon.png" alt="Menu principal"></a>
+             <a href="Souris.ctrl.php?firstId=<?= $pageApres ?>&nbSouris=<?= $nbSouris?>">
+             <img src="../Vues/Images/ImagesSwitch/Actions-arrow-right-icon.png" alt="Flèche droite"></a></p>
+
+           </div>
 
         </div>
 
