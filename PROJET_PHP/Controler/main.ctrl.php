@@ -40,7 +40,7 @@
         <div id="navigation">
            <a href="#" class="menu-togglr"><i class="fa fa-bars"></i></a>
             <ul>
-                <li><a href="../index.html">Accueil</a></li>
+                <li><a href="../index.php">Accueil</a></li>
                 <li><a href="CarteMere.ctrl.php">Carte mère</a></li>
                 <li><a href="DisqueDur.ctrl.php">Disque dur</a></li>
                 <li><a href="Processeur.ctrl.php">Processeur</a></li>
