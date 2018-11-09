@@ -87,6 +87,7 @@
 
             </div>
 
+<<<<<<< HEAD
             <div class="dispo">
 
               <span class="dispo"> Afin de voir les disponibilités de ce produit : <a href="https://www.ldlc.com/informatique/pieces-informatique/processeur/c4300/">LDLC</a>
@@ -94,6 +95,19 @@
             </div>
 
 
+=======
+            <div class="fleches">
+
+              <a href="Processeur2.ctrl.php?id=<?= $id - 1 ?>">
+              <img src="../Vues/Images/ImagesSwitch/Actions-arrow-left-icon.png" alt="Flèche gauche"></a>
+              <a href="Processeur.ctrl.php?firstId=1&Processeur=5">
+              <img src="../Vues/Images/ImagesSwitch/Actions-arrow-top-icon.png" alt="Menu principal"></a>
+              <a href="Processeur2.ctrl.php?id=<?= $id + 1  ?>">
+              <img src="../Vues/Images/ImagesSwitch/Actions-arrow-right-icon.png" alt="Flèche droite"></a></p>
+
+            </div>
+
+>>>>>>> 714dbf7006612cdd7b646bdd8e6a8340dfce60ea
         </div>
 
         <div id="footer">
