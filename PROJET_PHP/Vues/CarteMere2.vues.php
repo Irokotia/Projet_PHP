@@ -40,13 +40,12 @@
         <div id="navigation">
            <a href="#" class="menu-togglr"><i class="fa fa-bars"></i></a>
             <ul>
-                <li><a href="#">Accueil</a></li>
-                <li><a href="#">Dernières nouveautés</a></li>
-                <li><a href="#">Bons Plans</a></li>
-                <li><a href="#">Composants</a></li>
-                <li><a href="#">PC de bureau</a></li>
-                <li><a href="#">PC gamers</a></li>
-                <li><a href="#">Contactez nous</a></li>
+              <li><a href="../index.php">Accueil</a></li>
+              <li><a href="../Controler/CarteMere.ctrl.php">Carte mère</a></li>
+              <li><a href="../Controler/DisqueDur.ctrl.php">Disque dur</a></li>
+              <li><a href="../Controler/Processeur.ctrl.php">Processeur</a></li>
+              <li><a href="../Controler/Souris.ctrl.php">Souris</a></li>
+              <li><a href="#">Contactez nous</a></li>
             </ul>
         </div>
         <!--============home-slider==-->
@@ -63,6 +62,13 @@
           <div id="heading-block">
               <h2><?= $c->modele?> <?=$c->marque?> <?= $c->ref ?></h2>
           </div>
+
+          <a href="CarteMere2.ctrl.php?id=<?= $id - 1 ?>">
+          <img src="../Vues/Images/ImagesSwitch/Actions-arrow-left-icon.png" alt="Flèche gauche"></a>
+          <a href ="<?= $_SERVER["HTTP_REFERER"] ?>">
+          <img src="../Vues/Images/ImagesSwitch/Actions-arrow-top-icon.png" alt="Menu principal"></a>
+          <a href="CarteMere2.ctrl.php?id=<?= $id + 1  ?>">
+          <img src="../Vues/Images/ImagesSwitch/Actions-arrow-right-icon.png" alt="Flèche droite"></a></p>
 
             <div class="box">
 
@@ -94,13 +100,12 @@
                     <center>
                         <h2>Liens importants</h2>
                         <ul>
-                            <li><a href="../index.html">Accueil</a></li>
-                            <li><a href="#">Nouveaux Produits</a></li>
-                            <li><a href="#">Bons Plans</a></li>
-                            <li><a href="#">Composants</a></li>
-                            <li><a href="#">PC de bureaux</a></li>
-                            <li><a href="#">PC gamer</a></li>
-                            <li><a href="#">Contactez nous</a></li>
+                          <li><a href="../index.php">Accueil</a></li>
+                          <li><a href="../Controler/CarteMere.ctrl.php">Carte mère</a></li>
+                          <li><a href="../Controler/DisqueDur.ctrl.php">Disque dur</a></li>
+                          <li><a href="../Controler/Processeur.ctrl.php">Processeur</a></li>
+                          <li><a href="../Controler/Souris.ctrl.php">Souris</a></li>
+                          <li><a href="#">Contactez nous</a></li>
                         </ul>
                     </center>
                 </div>
