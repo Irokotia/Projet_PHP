@@ -16,8 +16,13 @@ if (isset($_GET["nbDisqueDur"]) == false ) {
 } elseif (isset($_GET["nbDisqueDur"])) {
 	$nbDisqueDur = $_GET["nbDisqueDur"];
 }
-$pageAvant = $page-1;
-$pageApres = $page+1;
+if ($page == 4) {
+	$pageAvant = $page-1;
+	$pageApres = $page;
+} else {
+	$pageAvant = $page-1;
+	$pageApres = $page+1;
+}
 
 $config = parse_ini_file('../config/config.ini');
 

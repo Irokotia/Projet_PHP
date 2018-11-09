@@ -16,8 +16,13 @@ if (isset($_GET["nbSouris"]) == false ) {
 } elseif (isset($_GET["nbSouris"])) {
 	$nbSouris = $_GET["nbSouris"];
 }
-$pageAvant = $page-1;
-$pageApres = $page+1;
+if ($page == 4) {
+	$pageAvant = $page-1;
+	$pageApres = $page;
+} else {
+	$pageAvant = $page-1;
+	$pageApres = $page+1;
+}
 
 $config = parse_ini_file('../config/config.ini');
 
