@@ -80,6 +80,13 @@
 
             </div>
 
+
+            <div class="dispo">
+
+              <span class="dispo"> Afin de voir les disponibilités de ce produit : <a href="https://www.ldlc.com/informatique/peripherique-pc/souris/c4613/">LDLC</a>
+
+            </div>
+
             <div class="fleches">
 
               <a href="Souris2.ctrl.php?id=<?= $id - 1 ?>">
@@ -88,7 +95,6 @@
               <img src="../Vues/Images/ImagesSwitch/Actions-arrow-top-icon.png" alt="Menu principal"></a>
               <a href="Souris2.ctrl.php?id=<?= $id + 1  ?>">
               <img src="../Vues/Images/ImagesSwitch/Actions-arrow-right-icon.png" alt="Flèche droite"></a></p>
-
 
             </div>
 

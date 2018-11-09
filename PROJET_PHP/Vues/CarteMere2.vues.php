@@ -62,7 +62,7 @@
           <div id="heading-block">
               <h2><?=$c->marque?> <?=$c->modele?> <?=$c->ref?></h2>
           </div>
-          
+
             <div class="box">
 
             <img src="../Vues/Images/ImagesCarteMère/<?= $c->img ?>" alt="Image de la Carte Mère">
@@ -77,6 +77,12 @@
             <div class="prix">
 
               <span class="prix"> Prix : <bold><?php echo $c->prix ?></bold></span>
+
+            </div>
+
+            <div class="dispo">
+
+              <span class="dispo"> Afin de voir les disponibilités de ce produit : <a href="https://www.ldlc.com/informatique/pieces-informatique/carte-mere/c4293/">LDLC</a>
 
             </div>
 
