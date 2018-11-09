@@ -226,6 +226,15 @@ nav a:hover{
 	position: relative;
 }
 
+.dispo {
+	width:500px;
+	height: 200px;
+	padding-top: 2.5em;
+	padding-left: 0.8em;
+	float: left;
+	position: relative;
+}
+
 .prix span {
 
 	width:500px;
