@@ -64,7 +64,7 @@
             <!---first box--->
             <a href="DisqueDur.ctrl.php">
                 <div class="box">
-                    <img src="V../ues/Images/ImagesDisqueDur/01.jpg" alt="DisqueDur">
+                    <img src="../Vues/Images/ImagesDisqueDur/01.jpg" alt="DisqueDur">
                     <span>Disque Dur</span>
                 </div>
             </a>
