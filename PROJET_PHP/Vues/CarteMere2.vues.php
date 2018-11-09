@@ -61,21 +61,27 @@
         <div class="container">
 
           <div id="heading-block">
-              <h2><?= $c->modele ?></h2>
+              <h2><?= $c->modele?> <?=$c->marque?> <?= $c->ref ?></h2>
           </div>
 
             <div class="box">
 
             <img src="../Vues/Images/ImagesCarteMère/<?= $c->img ?>" alt="Image de la Carte Mère">
-
-            <span><?php echo $c->prix ?></span>
             </div>
 
-            <div class="box">
+            <div class="box2">
+
             <span><?php echo $c->description ?></span>
 
-
           </div>
+
+            <div class="prix">
+
+              <span class="prix"> Prix : <bold><?php echo $c->prix ?></bold></span>
+
+            </div>
+
+        </div>
 
         <div id="footer">
             <div class="container">
