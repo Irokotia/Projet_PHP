@@ -87,6 +87,12 @@
 
             </div>
 
+            <div class="dispo">
+
+              <span class="dispo"> Afin de voir les disponibilités de ce produit : <a href="https://www.ldlc.com/informatique/peripherique-pc/souris/c4613/">LDLC</a>
+
+            </div>
+
         </div>
 
         <div id="footer">

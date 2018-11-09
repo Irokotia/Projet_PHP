@@ -87,6 +87,13 @@
 
             </div>
 
+            <div class="dispo">
+
+              <span class="dispo"> Afin de voir les disponibilités de ce produit : <a href="https://www.ldlc.com/informatique/pieces-informatique/processeur/c4300/">LDLC</a>
+
+            </div>
+
+
         </div>
 
         <div id="footer">
