@@ -102,13 +102,12 @@
                     <center>
                         <h2>Liens importants</h2>
                         <ul>
-                            <li><a href="#">Accueil</a></li>
-                            <li><a href="#">Nouveaux Produits</a></li>
-                            <li><a href="#">Bons Plans</a></li>
-                            <li><a href="#">Composants</a></li>
-                            <li><a href="#">PC de bureaux</a></li>
-                            <li><a href="#">PC gamer</a></li>
-                            <li><a href="#">Contactez nous</a></li>
+                          <li><a href="../index.php">Accueil</a></li>
+                          <li><a href="CarteMere.ctrl.php">Carte mère</a></li>
+                          <li><a href="DisqueDur.ctrl.php">Disque dur</a></li>
+                          <li><a href="Processeur.ctrl.php">Processeur</a></li>
+                          <li><a href="Souris.ctrl.php">Souris</a></li>
+                          <li><a href="#">Contactez nous</a></li>
                         </ul>
                     </center>
                 </div>
@@ -116,13 +115,13 @@
                     <center>
                         <h2>Réseaux sociaux</h2>
                         <ul>
-                            <li><a href="#">Facebook</a></li>
-                            <li><a href="#">Google+</a></li>
-                            <li><a href="#">Youtube</a></li>
-                            <li><a href="#">Twitter</a></li>
-                            <li><a href="#">Linkdin</a></li>
-                            <li><a href="#">Blogger</a></li>
-                            <li><a href="#">Digg</a></li>
+                          <li><a href="https://www.facebook.com/">Facebook</a></li>
+                          <li><a href="https://plus.google.com/discover">Google+</a></li>
+                          <li><a href="https://www.youtube.com/?gl=FR&hl=fr">Youtube</a></li>
+                          <li><a href="https://twitter.com/?lang=fr">Twitter</a></li>
+                          <li><a href="https://fr.linkedin.com/">Linkdin</a></li>
+                          <li><a href="https://www.blogger.com/about/?r=1-null_user">Blogger</a></li>
+                          <li><a href="http://digg.com/">Digg</a></li>
                         </ul>
                     </center>
                 </div>
