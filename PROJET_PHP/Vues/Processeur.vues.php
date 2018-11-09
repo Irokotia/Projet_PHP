@@ -65,7 +65,7 @@
               <h2>Liste des produits</h2>
           </div>
 
-          <a href="Processeur.php?firstId=<?= $pageAvant ?>&nbProcesseur=<?= $nbProcesseur ?>">
+          <a href="Processeur.ctrl.php?firstId=<?= $pageAvant ?>&nbProcesseur=<?= $nbProcesseur ?>">
           <img src="../Vues/Images/ImagesSwitch/Actions-arrow-left-icon.png" alt="Flèche gauche"></a>
           <?= $page ?>
           <a href ="Processeur.ctrl.php?firstId=1">

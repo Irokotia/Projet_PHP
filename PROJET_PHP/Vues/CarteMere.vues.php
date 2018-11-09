@@ -65,7 +65,7 @@
               <h2>Liste des produits</h2>
           </div>
 
-          <a href="CarteMere.php?firstId=<?= $pageAvant ?>&nbCarteMère=<?= $nbCarteMère ?>">
+          <a href="CarteMere.ctrl.php?firstId=<?= $pageAvant ?>&nbCarteMère=<?= $nbCarteMère ?>">
           <img src="../Vues/Images/ImagesSwitch/Actions-arrow-left-icon.png" alt="Flèche gauche"></a>
           <?= $page ?>
           <a href ="CarteMere.ctrl.php?firstId=1">

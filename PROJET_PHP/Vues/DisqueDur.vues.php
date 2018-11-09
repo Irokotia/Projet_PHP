@@ -64,7 +64,7 @@
               <h2>Liste des produits</h2>
           </div>
 
-          <a href="DisqueDur.php?firstId=<?= $pageAvant ?>&nbDisqueDur=<?= $nbDisqueDur ?>">
+          <a href="DisqueDur.ctrl.php?firstId=<?= $pageAvant ?>&nbDisqueDur=<?= $nbDisqueDur ?>">
           <img src="../Vues/Images/ImagesSwitch/Actions-arrow-left-icon.png" alt="Flèche gauche"></a>
           <?= $page ?>
           <a href ="DisqueDur.ctrl.php?firstId=1">

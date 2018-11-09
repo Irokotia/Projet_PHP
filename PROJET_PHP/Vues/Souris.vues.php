@@ -65,7 +65,7 @@
               <h2>Liste des produits</h2>
           </div>
 
-          <a href="Souris.php?firstId=<?= $pageAvant ?>&nbSouris=<?= $nbSouris ?>">
+          <a href="Souris.ctrl.php?firstId=<?= $pageAvant ?>&nbSouris=<?= $nbSouris ?>">
           <img src="../Vues/Images/ImagesSwitch/Actions-arrow-left-icon.png" alt="Flèche gauche"></a>
           <?= $page ?>
           <a href ="Souris.ctrl.php?firstId=1">
