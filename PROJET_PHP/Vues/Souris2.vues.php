@@ -60,7 +60,7 @@
         <div class="container">
 
           <div id="heading-block">
-              <h2><?= $s->modele?> <?=$s->marque?> <?= $s->ref ?></h2>
+              <h2><?=$s->marque?>  <?=$s->modele?> <?=$s->ref?></h2>
           </div>
 
             <div class="box">

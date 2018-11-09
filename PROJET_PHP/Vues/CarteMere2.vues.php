@@ -60,7 +60,7 @@
         <div class="container">
 
           <div id="heading-block">
-              <h2><?= $c->modele?> <?=$c->marque?> <?= $c->ref ?></h2>
+              <h2><?=$c->marque?> <?=$c->modele?> <?=$c->ref?></h2>
           </div>
 
           <a href="CarteMere2.ctrl.php?id=<?= $id - 1 ?>">
