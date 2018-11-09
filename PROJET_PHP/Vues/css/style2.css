@@ -223,6 +223,15 @@ nav a:hover{
 	transition:all .5s ease;
 }
 
+.fleches {
+	width:300px;
+	height:50px;
+	padding-top: 3em;
+	padding-left: 30em;
+	float: left;
+	position: relative;
+}
+
 /*this is for products styling*/
 .prod-box{
 	width: 235px;
