@@ -12,7 +12,7 @@ if ($page <= 0) {
 }
 
 if (isset($_GET["nbProcesseur"]) == false ) {
-	$nbProcesseur = 10;
+	$nbProcesseur = 5;
 } elseif (isset($_GET["nbProcesseur"])) {
 	$nbProcesseur = $_GET["nbProcesseur"];
 }

@@ -12,7 +12,7 @@ if ($page <= 0) {
 }
 
 if (isset($_GET["nbDisqueDur"]) == false ) {
-	$nbDisqueDur = 10;
+	$nbDisqueDur = 5;
 } elseif (isset($_GET["nbDisqueDur"])) {
 	$nbDisqueDur = $_GET["nbDisqueDur"];
 }

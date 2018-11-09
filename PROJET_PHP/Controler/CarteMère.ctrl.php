@@ -11,7 +11,7 @@ if ($page <= 0) {
 	$page = 1;
 }
 if (isset($_GET["nbCarteMère"]) == false ) {
-	$nbCarteMère = 10;
+	$nbCarteMère = 5;
 } elseif (isset($_GET["nbCarteMère"]) )   {
 	$nbCarteMère = $_GET["nbCarteMère"];
 }

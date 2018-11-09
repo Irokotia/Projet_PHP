@@ -12,7 +12,7 @@ if ($page <= 0) {
 }
 
 if (isset($_GET["nbSouris"]) == false ) {
-	$nbSouris = 10;
+	$nbSouris = 5;
 } elseif (isset($_GET["nbSouris"])) {
 	$nbSouris = $_GET["nbSouris"];
 }
