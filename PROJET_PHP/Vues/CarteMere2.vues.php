@@ -63,6 +63,13 @@
               <h2><?= $c->modele ?></h2>
           </div>
 
+          <a href="CarteMere2.ctrl.php?id=<?= $id - 1 ?>">
+          <img src="../Vues/Images/ImagesSwitch/Actions-arrow-left-icon.png" alt="Flèche gauche"></a>
+          <a href ="<?= $_SERVER["HTTP_REFERER"] ?>">
+          <img src="../Vues/Images/ImagesSwitch/Actions-arrow-top-icon.png" alt="Menu principal"></a>
+          <a href="CarteMere2.ctrl.php?id=<?= $id + 1  ?>">
+          <img src="../Vues/Images/ImagesSwitch/Actions-arrow-right-icon.png" alt="Flèche droite"></a></p>
+
             <div class="box">
 
             <img src="../Vues/Images/ImagesCarteMère/<?= $c->img ?>" alt="Image de la Carte Mère">
