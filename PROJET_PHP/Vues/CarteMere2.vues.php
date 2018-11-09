@@ -5,7 +5,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <link href="../Vues/css/jquery.bxslider.css" rel="stylesheet" type="text/css">
     <link href="../Vues/fa/css/font-awesome.min.css" rel="stylesheet">
-    <link href="../Vues/css/style2.css" rel="stylesheet" type="text/css">
+    <link href="../Vues/css/style3.css" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="../Vues/css/media.css">
 </head>
 

@@ -191,8 +191,8 @@ nav a:hover{
 /*==========category boxes========*/
 
 .box{
-	width:500px;
-	height: 500px;
+	width:350px;
+	height: 350px;
 	float: left;
 	overflow:hidden;
 	position: relative;
