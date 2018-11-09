@@ -5,7 +5,7 @@ include('../Modèle/SourisDAO.class.php');
 $id = $_GET["id"];
 if ($id < 1) {
   $id = 1;
-} elseif ($id > 20) {
+} elseif ($id >= 20) {
   $id = 20;
 }
 

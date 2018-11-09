@@ -62,8 +62,7 @@
           <div id="heading-block">
               <h2><?=$c->marque?> <?=$c->modele?> <?=$c->ref?></h2>
           </div>
-
-
+          
             <div class="box">
 
             <img src="../Vues/Images/ImagesCarteMère/<?= $c->img ?>" alt="Image de la Carte Mère">
