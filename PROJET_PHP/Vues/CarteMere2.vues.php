@@ -63,12 +63,6 @@
               <h2><?=$c->marque?> <?=$c->modele?> <?=$c->ref?></h2>
           </div>
 
-          <a href="CarteMere2.ctrl.php?id=<?= $id - 1 ?>">
-          <img src="../Vues/Images/ImagesSwitch/Actions-arrow-left-icon.png" alt="Flèche gauche"></a>
-          <a href="CarteMere.ctrl.php?firstId=1&CarteMère=5">
-          <img src="../Vues/Images/ImagesSwitch/Actions-arrow-top-icon.png" alt="Menu principal"></a>
-          <a href="CarteMere2.ctrl.php?id=<?= $id + 1  ?>">
-          <img src="../Vues/Images/ImagesSwitch/Actions-arrow-right-icon.png" alt="Flèche droite"></a></p>
 
             <div class="box">
 
@@ -84,6 +78,17 @@
             <div class="prix">
 
               <span class="prix"> Prix : <bold><?php echo $c->prix ?></bold></span>
+
+            </div>
+
+            <div class="fleches">
+
+              <a href="CarteMere2.ctrl.php?id=<?= $id - 1 ?>">
+              <img src="../Vues/Images/ImagesSwitch/Actions-arrow-left-icon.png" alt="Flèche gauche"></a>
+              <a href="CarteMere.ctrl.php?firstId=1&CarteMère=5">
+              <img src="../Vues/Images/ImagesSwitch/Actions-arrow-top-icon.png" alt="Menu principal"></a>
+              <a href="CarteMere2.ctrl.php?id=<?= $id + 1  ?>">
+              <img src="../Vues/Images/ImagesSwitch/Actions-arrow-right-icon.png" alt="Flèche droite"></a></p>
 
             </div>
 

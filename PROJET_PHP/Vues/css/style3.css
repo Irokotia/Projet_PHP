@@ -237,6 +237,18 @@ nav a:hover{
 
 }
 
+.fleches {
+
+	width:200px;
+	height: 200px;
+	padding-top: 2.5em;
+	padding-left: 0.8em;
+	float: left;
+	position: relative;
+}
+
+}
+
 .box img{
 	max-width:100%;
 	transition:all .5s ease;
