@@ -60,23 +60,23 @@
         <div class="container">
 
           <div id="heading-block">
-              <h2><?= $c->modele?> <?=$c->marque?> <?= $c->ref ?></h2>
+              <h2><?= $s->modele?> <?=$s->marque?> <?= $s->ref ?></h2>
           </div>
 
             <div class="box">
 
-            <img src="../Vues/Images/ImagesSouris/<?= $c->img ?>" alt="Image de la Souris">
+            <img src="../Vues/Images/ImagesSouris/<?= $s->img ?>" alt="Image de la Souris">
             </div>
 
             <div class="box2">
 
-            <span><?php echo $c->description ?></span>
+            <span><?php echo $s->description ?></span>
 
           </div>
 
             <div class="prix">
 
-              <span class="prix"> Prix : <bold><?php echo $c->prix ?></bold></span>
+              <span class="prix"> Prix : <bold><?php echo $s->prix ?></bold></span>
 
             </div>
 
